@@ -141,9 +141,10 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       algolia: {
-        appId: "DY0HB8YEU9",
-        apiKey: "c660b276755dcc738032692e9b6d04b7",
-        indexName: "blog_siansiansu_com",
+        container: '#docsearch',
+        appId: '8WAX2BAIGH',
+        indexName: 'Bîn-hiân ê 簿仔紙',
+        apiKey: 'eab7ae5bcc7ae09cf51643a132f7d9a0',
       },
     }),
 };
