@@ -141,9 +141,9 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       algolia: {
-        appId: "84MT6LYJ8T",
-        apiKey: "ad5d41ddd220936219e557467464a520",
-        indexName: "siansiansuio",
+        appId: "DY0HB8YEU9",
+        apiKey: "c660b276755dcc738032692e9b6d04b7",
+        indexName: "blog.siansiansu.com",
       },
     }),
 };
