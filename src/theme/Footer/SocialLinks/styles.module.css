@@ -1,0 +1,39 @@
+.socialLinks {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+  flex-wrap: wrap;
+}
+
+.socialLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: rgba(141, 169, 155, 0.1);
+  color: var(--ifm-color-gray-600);
+  text-decoration: none;
+  font-size: 1.2rem;
+  transition: all 0.3s ease;
+}
+
+.socialLink:hover {
+  background-color: var(--ifm-color-primary);
+  color: #ffffff;
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(141, 169, 155, 0.3);
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .socialLink {
+  background-color: rgba(168, 192, 181, 0.15);
+  color: var(--ifm-color-gray-300);
+}
+
+[data-theme='dark'] .socialLink:hover {
+  background-color: var(--ifm-color-primary);
+  color: #ffffff;
+}
