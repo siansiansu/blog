@@ -39,7 +39,7 @@ const config = {
           customCss: "./src/css/custom.css",
         },
         gtag: {
-          trackingID: "G-S4S5T3DX6G",
+          trackingID: "G-FYJ71DG1PS",
         },
         sitemap: {
           ignorePatterns: ['/search/**'],
