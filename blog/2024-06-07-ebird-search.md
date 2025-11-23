@@ -1,14 +1,12 @@
 ---
 slug: ebird-search
-title: eBird 搜尋工具 - 強化你的賞鳥體驗
-tags: [ebird, chrome-extension]
+title: eBird 搜尋助手 - 改善 eBird 網站中文搜尋的 Chrome 套件
+tags: [ebird]
 ---
 
 # eBird 搜尋工具
 
-:::info
 📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/ebird-smart-search/kpmgekjpemcgifjphdjhlnadhggapilm)
-:::
 
 ![ebird-search](/ebird-tools/ebird-search.gif)
 

@@ -1,6 +1,6 @@
 ---
 slug: birdwatching-singapore
-tags: [賞鳥, birdwatching, 新加坡, Singapore]
+tags: [birdwatching]
 ---
 
 # 我的賞鳥筆記 - 新加坡

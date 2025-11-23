@@ -1,9 +1,9 @@
 ---
-slug: zelda-botw-100-completion
-tags: [gaming, zelda, botw]
+slug: zelda-breath-wild-complete-guide
+tags: [gaming]
 ---
 
-# 曠野之息 100% 全收集
+# 薩爾達曠野之息 100% 全收集
 
 <!-- truncate -->
 

@@ -1,6 +1,6 @@
 ---
 slug: birdwatching-kinabatangan
-tags: [賞鳥, birdwatching, 婆羅洲, Borneo, Kinabatangan]
+tags: [birdwatching]
 ---
 
 # 我的賞鳥筆記 - Kinabatangan River
@@ -197,13 +197,5 @@ Kinabatangan River 位於[山打根](https://maps.app.goo.gl/XcDrgrwd5VWuoe7F8)�
 
 ▲ 路上看到的野獸巨人。
 
-### 飲食
 
-### 賞鳥
-
-
-## 連結
-
-### Facebook
-
-### Instagram
+待續...

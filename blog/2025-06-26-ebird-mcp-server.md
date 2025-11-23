@@ -136,9 +136,7 @@ cd /path/to/ebird-mcp-server
 pip install -r requirements.txt
 ```
 
-:::info
-專案連結：[https://github.com/siansiansu/ebird-mcp-server](https://github.com/siansiansu/ebird-mcp-server)
-:::
+專案連結：[https://github.com/birdingkit/ebird-mcp-server](https://github.com/birdingkit/ebird-mcp-server)
 
 ### 2. 設定 Claude 桌面應用程式
 

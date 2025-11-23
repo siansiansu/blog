@@ -1,9 +1,9 @@
 ---
-slug: zelda-echoes-of-wisdom-100-completion
-tags: [gaming, zelda, echoes-of-wisdom]
+slug: zelda-echoes-wisdom-complete-guide
+tags: [gaming]
 ---
 
-# 智慧的再現 100% 全收集
+# 薩爾達智慧的再現 100% 全收集
 
 ![image](/gaming/zelda/eow/cover-photo.jpg)
 

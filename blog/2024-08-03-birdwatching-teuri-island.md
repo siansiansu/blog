@@ -1,6 +1,6 @@
 ---
 slug: birdwatching-teuri-island
-tags: [賞鳥, birdwatching, 日本, 天売島, 北海道]
+tags: [birdwatching]
 ---
 
 # 我的賞鳥筆記 - 天売島

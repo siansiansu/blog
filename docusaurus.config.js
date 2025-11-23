@@ -4,7 +4,7 @@ import rehypeKatex from "rehype-katex";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Bîn-hiân",
+  title: "Bîn-hiân ê 簿仔紙",
   tagline: "賞鳥、野外、台語、軟體、生活",
   favicon: "img/favicon.ico",
   trailingSlash: true,
@@ -12,7 +12,7 @@ const config = {
   url: "https://blog.siansiansu.com",
   baseUrl: "/",
   organizationName: "siansiansu", // Usually your GitHub org/user name.
-  projectName: "siansiansu.github.io", // Usually your repo name.
+  projectName: "blog", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -28,34 +28,21 @@ const config = {
       ({
         docs: false,
         blog: {
-          showReadingTime: true,
-          blogTitle: '最近的文章',
+          blogTitle: 'Bîn-hiân ê 簿仔紙',
           blogDescription: '賞鳥、野外、台語、軟體、生活',
           postsPerPage: 9,
-          blogSidebarTitle: '最近文章',
           blogSidebarCount: 'ALL',
+          blogSidebarTitle: '最近的文章',
           routeBasePath: '/',
-          feedOptions: {
-            type: ["rss", "atom"],
-            xslt: true,
-          },
-          onInlineTags: "warn",
-          onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
         },
         theme: {
           customCss: "./src/css/custom.css",
         },
         gtag: {
           trackingID: "G-S4S5T3DX6G",
-          anonymizeIP: true,
         },
         sitemap: {
-          lastmod: "date",
-          filename: "sitemap.xml",
-          ignorePatterns: ['/comments/**', '/search/**'],
-          changefreq: 'weekly',
-          priority: 0.7,
+          ignorePatterns: ['/search/**'],
         },
       }),
     ],
@@ -79,16 +66,7 @@ const config = {
   ],
 
   plugins: [
-    [
-      "@docusaurus/plugin-ideal-image",
-      {
-        quality: 70,
-        max: 1030,
-        min: 640,
-        steps: 2,
-        disableInDev: false,
-      },
-    ],
+    "@docusaurus/plugin-ideal-image",
   ],
 
   themeConfig: ({
@@ -103,7 +81,7 @@ const config = {
         },
         {
           name: "og:title",
-          content: "Mè-sì ê Blog｜賞鳥、野外、台語、軟體、生活"
+          content: "Bîn-hiân ê Blog｜賞鳥、野外、台語、軟體、生活"
         },
         {
           name: "og:url",
@@ -136,6 +114,7 @@ const config = {
       ],
       image: "img/profile.jpg",
       navbar: {
+        title: "Bîn-hiân ê 簿仔紙",
         items: [
           {
             href: "https://portaly.cc/siansiansu",
@@ -161,18 +140,10 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      docs: {
-        sidebar: {
-          hideable: false,
-          autoCollapseCategories: true,
-        },
-      },
       algolia: {
         appId: "84MT6LYJ8T",
         apiKey: "ad5d41ddd220936219e557467464a520",
         indexName: "siansiansuio",
-        contextualSearch: true,
-        searchParameters: {},
       },
     }),
 };

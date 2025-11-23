@@ -1,14 +1,12 @@
 ---
 slug: xeno-canto-bird-sounds
-title: Xeno-canto 搜尋助手 - 快速查詢鳥音的利器
-tags: [ebird, chrome-extension, xeno-canto]
+title: Xeno-canto 搜尋助手 - 快速查詢鳥音的 Chrome 套件
+tags: [birdwatching]
 ---
 
 # Xeno-canto 搜尋助手
 
-:::info
 📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/xeno-canto-bird-sounds/fogelmchjlfpdkhbdikigjnimkbgalbj)
-:::
 
 ![xeno-canto](/chrome-extensions/xeno-canto.gif)
 

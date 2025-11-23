@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Iansui';
+  src: url('/fonts/Iansui-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --ifm-color-primary: #8da99b;
   --ifm-color-primary-dark: #7a9689;
@@ -22,7 +30,7 @@
   --ifm-color-gray-600: #57675c;
   --ifm-color-gray-700: #2c2827;
   --ifm-color-gray-800: #1d1c1b;
-  --ifm-font-family-base: -apple-system, BlinkMacSystemFont, "SF Pro Text",
+  --ifm-font-family-base: "Iansui", -apple-system, BlinkMacSystemFont, "SF Pro Text",
                           "Noto Sans TC", "Microsoft JhengHei", "Helvetica Neue",
                           Helvetica, Arial, sans-serif;
   --ifm-font-size-base: 16px;

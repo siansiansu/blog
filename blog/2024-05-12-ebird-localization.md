@@ -1,14 +1,12 @@
 ---
 slug: ebird-localization
-title: eBird 繁體中文地圖 - 讓賞鳥更在地化
-tags: [ebird, chrome-extension]
+title: eBird 繁體中文地圖 - 解決顯示簡體中文地圖的 Chrome 套件
+tags: [ebird]
 ---
 
 # eBird 繁體中文地圖
 
-:::info
 📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/ebird-localization/fehgcalgkkjfemgocipbabpkoemcgbnj)
-:::
 
 ![ebird-map](/ebird-tools/ebird-map.png)
 

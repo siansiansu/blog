@@ -1,9 +1,9 @@
 ---
-slug: zelda-skyward-sword-100-completion
-tags: [gaming, zelda, skyward-sword]
+slug: zelda-skyward-sword-complete-guide
+tags: [gaming]
 ---
 
-# 禦天之劍 100% 全收集
+# 薩爾達禦天之劍 100% 全收集
 
 <!-- truncate -->
 

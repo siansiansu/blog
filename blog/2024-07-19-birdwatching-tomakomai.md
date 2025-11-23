@@ -1,6 +1,6 @@
 ---
 slug: birdwatching-tomakomai
-tags: [賞鳥, birdwatching, 日本, 苫小牧, 北海道]
+tags: [birdwatching]
 ---
 
 # 我的賞鳥筆記 - 苫小牧

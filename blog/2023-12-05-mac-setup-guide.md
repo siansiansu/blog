@@ -1,6 +1,6 @@
 ---
 slug: mac-setup-guide
-tags: [mac, setup, devops, sre]
+tags: [dev]
 ---
 
 # Mac Setup Guide for DevOps/SRE
