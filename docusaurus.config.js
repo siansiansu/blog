@@ -33,7 +33,7 @@ const config = {
           blogDescription: '賞鳥、野外、台語、軟體、生活',
           postsPerPage: 9,
           blogSidebarTitle: '最近文章',
-          blogSidebarCount: 5,
+          blogSidebarCount: 'ALL',
           routeBasePath: '/',
           feedOptions: {
             type: ["rss", "atom"],
