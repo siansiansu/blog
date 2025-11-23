@@ -143,7 +143,7 @@ const config = {
       algolia: {
         appId: "DY0HB8YEU9",
         apiKey: "c660b276755dcc738032692e9b6d04b7",
-        indexName: "blog.siansiansu.com",
+        indexName: "blog_siansiansu_com_dy0hb8yeu9_articles",
       },
     }),
 };
