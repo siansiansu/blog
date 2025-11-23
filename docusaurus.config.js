@@ -144,7 +144,10 @@ const config = {
         appId: "DY0HB8YEU9",
         apiKey: "c660b276755dcc738032692e9b6d04b7",
         indexName: "blog_siansiansu_com_dy0hb8yeu9_articles",
-        contextualSearch: true,
+        contextualSearch: false,
+        searchParameters: {
+          facetFilters: []
+        },
       },
     }),
 };
