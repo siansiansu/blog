@@ -55,6 +55,9 @@ const config = {
       integrity:
         "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
       crossorigin: "anonymous",
+      rel: "preload",
+      as: "style",
+      onload: "this.onload=null;this.rel='stylesheet'",
     },
     {
       href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
@@ -62,11 +65,23 @@ const config = {
       integrity:
         "sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==",
       crossorigin: "anonymous",
+      rel: "preload",
+      as: "style",
+      onload: "this.onload=null;this.rel='stylesheet'",
     },
   ],
 
   plugins: [
-    "@docusaurus/plugin-ideal-image",
+    [
+      "@docusaurus/plugin-ideal-image",
+      {
+        quality: 85,
+        max: 1600,
+        min: 640,
+        steps: 3,
+        disableInDev: false,
+      },
+    ],
   ],
 
   themeConfig: ({

@@ -1,9 +1,9 @@
 ---
 slug: zelda-breath-wild-locations-guide
+title: 薩爾達曠野之息中英文地名對照
+description: 薩爾達傳說曠野之息全 531 個地點中英文對照清單，涵蓋阿卡萊、中央海拉魯、雙子山、奧爾汀、費羅尼、格魯德、森林、初始台地、哈特諾、海布拉、湖之領域、拉聶爾、丘陵、塔邦撻等 14 大區域，搭配互動地圖輕鬆追蹤 100% 收集進度。
 tags: [gaming]
 ---
-
-# 薩爾達曠野之息中英文地名對照
 
 With this checklist and [Breath of the Wild Interactive Map](https://www.zeldadungeon.net/breath-of-the-wild-interactive-map/), you can easily track your progress and find all the locations required to achieve the 100 percent completion rate.
 

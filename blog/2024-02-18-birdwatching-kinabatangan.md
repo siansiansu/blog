@@ -1,9 +1,9 @@
 ---
 slug: birdwatching-kinabatangan
+title: 我的賞鳥筆記 - Kinabatangan River
+description: 婆羅洲 Kinabatangan River 賞鳥完整攻略，包含台灣直飛沙巴亞庇、轉乘國內線至山打根的詳細航班資訊、亞庇市區 Grab 交通、Hotel Sixty3 住宿推薦、Sukau Greenview 民宿預訂方式、購物中心美食及市集探索等實用資訊，適合計畫前往婆羅洲賞鳥的鳥友參考。
 tags: [birdwatching]
 ---
-
-# 我的賞鳥筆記 - Kinabatangan River
 
 [Kinabatangan River](https://maps.app.goo.gl/6prazKm6F1ABtU4dA) 賞鳥筆記，分享交通、住宿、廁所、飲水等旅行中需要知道的實用資訊。
 

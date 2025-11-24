@@ -1,9 +1,9 @@
 ---
 slug: ebird-mcp-server
+title: 結合 eBird 與 AI：用 MCP Server 打造你的個人鳥類資料助理
+description: 透過 Model Context Protocol (MCP) Server 整合 eBird API 與 Claude AI，用自然語言查詢鳥類觀測資料、賞鳥熱點與物種分類。支援 Python 開發環境設定教學。
 tags: [ebird]
 ---
-
-# 結合 eBird 與 AI：用 MCP Server 打造你的個人鳥類資料助理
 
 ![demo](/ebird-mcp-server/demo2.gif)
 

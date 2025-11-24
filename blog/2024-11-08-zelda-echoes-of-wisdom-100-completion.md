@@ -1,9 +1,9 @@
 ---
 slug: zelda-echoes-wisdom-complete-guide
+title: 薩爾達智慧的再現 100% 全收集
+description: 薩爾達傳說智慧的再現 100% 完全收集攻略，包含全 40 個心之碎片、150 個力量水晶、25 個印章、127 個回聲、6 個自動機械、69 種冰沙、沉眠道場全 15 關卡、50 個支線任務、28 個飾品、11 套服裝、4 個小遊戲獎勵及英雄模式通關成就。
 tags: [gaming]
 ---
-
-# 薩爾達智慧的再現 100% 全收集
 
 ![image](/gaming/zelda/eow/cover-photo.jpg)
 

@@ -1,10 +1,11 @@
 ---
 slug: ebird-search
 title: eBird 搜尋助手 - 改善 eBird 網站中文搜尋的 Chrome 套件
+description: Chrome 擴充套件支援繁體中文、台語俗名與羅馬字搜尋 eBird 鳥種與熱門鳥點，每日更新最新分類清單與賞鳥地點資料。
 tags: [ebird]
 ---
 
-# eBird 搜尋工具
+## eBird 搜尋工具
 
 📦 [點此至 Google Chrome 線上應用程式商店下載](https://chromewebstore.google.com/detail/ebird-smart-search/kpmgekjpemcgifjphdjhlnadhggapilm)
 
