@@ -1,6 +1,4 @@
 import { themes as prismThemes } from "prism-react-renderer";
-import remarkMath from "remark-math";
-import rehypeKatex from "rehype-katex";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -11,14 +9,18 @@ const config = {
 
   url: "https://blog.siansiansu.com",
   baseUrl: "/",
-  organizationName: "siansiansu", // Usually your GitHub org/user name.
-  projectName: "blog", // Usually your repo name.
+  organizationName: "siansiansu",
+  projectName: "blog",
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
   i18n: {
     defaultLocale: "zh-TW",
     locales: ["zh-TW", "en"],
+  },
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
   },
 
   presets: [
@@ -49,16 +51,6 @@ const config = {
   ],
 
   stylesheets: [
-    {
-      href: "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
-      type: "text/css",
-      integrity:
-        "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
-      crossorigin: "anonymous",
-      rel: "preload",
-      as: "style",
-      onload: "this.onload=null;this.rel='stylesheet'",
-    },
     {
       href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
       type: "text/css",
@@ -122,10 +114,6 @@ const config = {
           name: "og:type",
           content: "article"
         },
-        {
-          name: "google-site-verification",
-          content: "QEDNLI8In3Dve5OuHVx9NckoUPYcN2I05JwHQlVER-M"
-        }
       ],
       image: "img/profile.jpg",
       navbar: {
@@ -149,7 +137,7 @@ const config = {
       },
       footer: {
         style: "light",
-        copyright: `Copyright © ${new Date().getFullYear()} Soo bîn-hiân`,
+        copyright: `Copyright © 2024 Soo bîn-hiân`,
       },
       prism: {
         theme: prismThemes.github,
