@@ -63,6 +63,22 @@ const config = {
     },
   ],
 
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {
+        type: 'application/ld+json',
+      },
+      innerHTML: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Organization',
+        name: 'Bîn-hiân ê 簿仔紙',
+        url: 'https://blog.siansiansu.com',
+        logo: 'https://blog.siansiansu.com/img/logo.png',
+      }),
+    },
+  ],
+
   plugins: [
     [
       "@docusaurus/plugin-ideal-image",
