@@ -157,6 +157,7 @@ Make sure you are already connected to the company's WiFi
   - [ ] [tree](https://oldmanprogrammer.net/source.php?dir=projects/tree)
   - [ ] [uv](https://github.com/astral-sh/uv)
   - [ ] [yq](https://github.com/mikefarah/yq)
+  - [ ] [starship](https://starship.rs/)
 
 ## 11. Setup mise Plugins
 
