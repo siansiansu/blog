@@ -5,6 +5,8 @@ description: Spy X Family Color Palette
 tags: [design]
 ---
 
+<!-- truncate -->
+
 ## Light Mode
 
 ### Primary Colors

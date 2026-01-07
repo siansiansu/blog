@@ -5,6 +5,8 @@ description: My Ghostty Configuration
 tags: [dev]
 ---
 
+<!-- truncate -->
+
 ```shell=
 working-directory = "~"
 font-size = 17
