@@ -159,12 +159,12 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      // algolia: {
-      //   container: '#docsearch',
-      //   appId: '8WAX2BAIGH',
-      //   indexName: 'Bîn-hiân ê 簿仔紙',
-      //   apiKey: 'eab7ae5bcc7ae09cf51643a132f7d9a0',
-      // },
+      algolia: {
+        container: '#docsearch',
+        appId: 'C4B56S1AAZ',
+        indexName: 'Documentation Website',
+        apiKey: '7c415098f749b99a1a398fd66a62a0a0',
+      },
     }),
 };
 
