@@ -1,7 +1,8 @@
 ---
 slug: ghostty-config
 title: My Ghostty Configuration
-description: My Ghostty Configuration
+description: 我的 Ghostty 終端機設定檔分享，包含字型、主題、快捷鍵與視窗配置。
+keywords: [Ghostty, terminal, 終端機, 設定, configuration]
 tags: [dev]
 ---
 

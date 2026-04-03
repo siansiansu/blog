@@ -2,6 +2,7 @@
 slug: taigi-resources
 title: 台語學習資源整理
 description: 台語學習資源完整整理，包含揣字工具 ChhoeTaigi、iTaigi、輸入法 PhahTaigi、意傳台文、社群媒體 Facebook、Instagram、Podcast、Youtube 頻道、台語書籍推薦、學習網站及全民台語認證考試資訊，適合想學習台語的朋友參考。
+keywords: [台語, 學習資源, ChhoeTaigi, iTaigi, 台語認證, Tâi-gí]
 tags: [taigi]
 ---
 

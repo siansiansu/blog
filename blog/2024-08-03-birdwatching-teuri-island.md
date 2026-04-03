@@ -2,12 +2,14 @@
 slug: birdwatching-teuri-island
 title: 我的賞鳥筆記 - 天売島
 description: 天売島賞鳥完整攻略，包含從札幌到天売島的詳細交通路線、巴士預約方式、船班資訊、7 個主要賞鳥熱點介紹、民宿栄丸住宿體驗、當地導覽預約教學、租借電動腳踏車等實用資訊，適合計畫前往北海道賞鳥的鳥友參考。
+image: /teuri-island/cover-photo.png
+keywords: [賞鳥, 天売島, 北海道, birdwatching, 海鳥, 鳥類, 日本]
 tags: [birdwatching]
 ---
 
 天売島賞鳥筆記，分享交通、住宿、廁所、飲水等旅行中需要知道的實用資訊。
 
-![image](/teuri-island/cover-photo.png)
+![天売島賞鳥封面照](/teuri-island/cover-photo.png)
 
 ▲ 天売島 7 個主要的賞鳥熱點：
 
@@ -25,13 +27,13 @@ tags: [birdwatching]
 
 ### 新千歲機場 ⭢ 札幌
 
-![image](/teuri-island/teuri-1.png)
+![新千歲機場到札幌車站的鐵路](/teuri-island/teuri-1.png)
 
 ▲ `新千歲機場`到`札幌車站`之間的鐵路。
 
 下飛機後搭乘 `JR 千歲線`到`札幌車站`下車，大約 50 分鐘，也可以搭巴士。
 
-![image](/teuri-island/teuri-2.png)
+![售票亭前的佈告欄](/teuri-island/teuri-2.png)
 
 ▲ 售票亭前的佈告欄。
 
@@ -41,7 +43,7 @@ tags: [birdwatching]
 
 其實我們本來想在今天先拿票的，但已經超過營業時間。
 
-![image](/teuri-island/teuri-3.png)
+![三井花園飯店札幌西館外觀](/teuri-island/teuri-3.png)
 
 ▲ 住宿的飯店，[三井ガーデンホテル札幌ウエスト](https://maps.app.goo.gl/7gAZQoJF9Lqt8hUx9)。
 
@@ -53,7 +55,7 @@ tags: [birdwatching]
 
 ### 札幌 ⭢ 羽幌
 
-![image](/teuri-island/teuri-4.png)
+![特急はぼろ号巴士搭乘確認事項](/teuri-island/teuri-4.png)
 
 ▲ 上巴士前請確認紅色箭頭指的三個地方，不要坐錯車囉！
 
@@ -63,13 +65,13 @@ tags: [birdwatching]
 
 雖然早上八點才開車，但我們準時早上七點半就到售票亭買車票。
 
-![image](/teuri-island/teuri-5.png)
+![特急はぼろ号巴士車內前方螢幕](/teuri-island/teuri-5.png)
 
 ▲ 巴士面對司機的方向，前方有個螢幕會標示到站的站名，巴士名稱是`特急はぼろ号`，公司名稱是`沿岸バス株式会社`。
 
 時間是 7:53 分，到了 8:00 會準時開車，公車不等人的！
 
-![image](/teuri-island/teuri-6.png)
+![電話預約資料和車票](/teuri-island/teuri-6.png)
 
 ▲ 電話預約的資料，右上角釘起來的地方則是車票。
 
@@ -81,11 +83,11 @@ tags: [birdwatching]
 
 出發前只要跟站務人員核對資料就可以了，買票大概花了五分鐘左右。
 
-![image](/teuri-island/teuri-7.png)
+![砂川休息站外觀](/teuri-island/teuri-7.png)
 
 ▲ `砂川休息站`的外觀，上車後大約一個半小時後，會在這裡稍作停留，休息上廁所。
 
-![image](/teuri-island/teuri-8.png)
+![巴士路線圖標示砂川休息站位置](/teuri-island/teuri-8.png)
 
 ▲ 公車的路線圖，中間紅色箭頭處是`砂川休息站`的位置。
 
@@ -96,13 +98,13 @@ tags: [birdwatching]
 
 :::
 
-![image](/teuri-island/teuri-9.png)
+![沿岸バス本社ターミナル廁所建築物](/teuri-island/teuri-9.png)
 
 ▲ 廁所在這棟建築物的後面，很舊，但非常乾淨。
 
 到`羽幌`後，巴士會開到一個叫做`沿岸バス 本社ターミナル`的地方，裡面沒有站務人員。
 
-![image](/teuri-island/teuri-10.png)
+![候車亭裡面的暖爐](/teuri-island/teuri-10.png)
 
 ▲ 候車亭裡面的暖爐。
 
@@ -110,35 +112,35 @@ tags: [birdwatching]
 
 圖片右邊的書架上放很多摺頁。
 
-![image](/teuri-island/teuri-11.png)
+![天売島手繪地圖](/teuri-island/teuri-11.png)
 
 ▲ 天売島手繪地圖，很值得收藏紀念。
 
-![image](/teuri-island/teuri-12.png)
+![天売島上的指引](/teuri-island/teuri-12.png)
 
 ▲ 天売島上的一些指引。
 
-![image](/teuri-island/teuri-13.png)
+![天売島漂亮的地圖](/teuri-island/teuri-13.png)
 
 ▲ 很漂亮的地圖。
 
-![image](/teuri-island/teuri-14.png)
+![候車亭牆壁上的手繪路線圖](/teuri-island/teuri-14.png)
 
 ▲ 候車亭很有年代感，牆壁貼著手繪路線圖。
 
 我們在這裡大概待了半小時，休息和上廁所。
 
-![image](/teuri-island/teuri-15.png)
+![沿岸バス本社ターミナル到乘船處的路線](/teuri-island/teuri-15.png)
 
 ▲ `沿岸バス 本社ターミナル`到乘船處用走的大概需要`15`分鐘，也可以等接駁車。
 
 接駁車非常明顯，會停在候車亭旁，不會錯過的。
 
-![image](/teuri-island/teuri-16.png)
+![羽幌乘船處藍色屋頂外觀](/teuri-island/teuri-16.png)
 
 ▲ 乘船處也非常明顯，有個藍色的屋頂。
 
-![image](/teuri-island/teuri-17.jpeg)
+![乘船處內部的諮詢處和售票處](/teuri-island/teuri-17.jpeg)
 
 ▲ 進去乘船處後，大門的左手邊是諮詢處，大門的右手邊是售票處。
 
@@ -154,21 +156,21 @@ tags: [birdwatching]
 
 諮詢處的平野先生看我們在風雨中拖著行李箱很狼狽，於是幫忙找臨時的住宿，還幫忙打電話給民宿說明，安排好後還載我們到處玩。
 
-![image](/teuri-island/teuri-18.png)
+![羽幌遊玩路線地圖](/teuri-island/teuri-18.png)
 
 ▲ 我們遊玩的路線。
 
 #### 北海道海鳥センター
 
-![image](/teuri-island/teuri-19.png)
+![北海道海鳥センター門口](/teuri-island/teuri-19.png)
 
 ▲ 從北海道海鳥センター門口往裡面拍，非常推薦值得一逛。
 
-![image](/teuri-island/teuri-20.png)
+![北海道海鳥センター內部展示](/teuri-island/teuri-20.png)
 
 ▲ 裡頭的展示非常豐富，主要都是日語解說，我們用翻譯軟體一個一個看。
 
-![image](/teuri-island/teuri-21.png)
+![北海道海鳥センター鳥類情報展示](/teuri-island/teuri-21.png)
 
 ▲ 也有各種鳥類的情報。
 
@@ -180,7 +182,7 @@ tags: [birdwatching]
 
 #### 甘えびファクトリー 蝦名漁業部 えび漁師第51高砂丸直売店
 
-![image](/teuri-island/teuri-22.png)
+![蝦名漁業部的甜蝦套餐](/teuri-island/teuri-22.png)
 
 ▲ 甘えびファクトリー 蝦名漁業部販售的甜蝦套餐，非常好吃。
 
@@ -190,19 +192,19 @@ tags: [birdwatching]
 
 #### カフェ＆イン吉里吉里
 
-![image](/teuri-island/teuri-23.png)
+![カフェ＆イン吉里吉里外觀](/teuri-island/teuri-23.png)
 
 ▲ カフェ＆イン吉里吉里。
 
 晚上住在`カフェ＆イン吉里吉里`，雖然房子很簡陋，但晚餐非常好吃，老闆夫妻也非常親切。
 
-![image](/teuri-island/teuri-24.png)
+![招牌甜蝦特寫](/teuri-island/teuri-24.png)
 
 ▲ 招牌甜蝦特寫。
 
 ### 羽幌 ⭢ 天売島
 
-![image](/teuri-island/teuri-25.png)
+![羽幌公園賞鳥路線](/teuri-island/teuri-25.png)
 
 ▲ 羽幌公園的賞鳥路線。
 
@@ -212,11 +214,11 @@ tags: [birdwatching]
 
 要注意不要誤入了。
 
-![image](/teuri-island/teuri-26.png)
+![羽幌街上的崖海鴉裝飾](/teuri-island/teuri-26.png)
 
 ▲ 羽幌各處都可以看到崖海鴉的裝飾，很可愛。
 
-![image](/teuri-island/teuri-27.png)
+![吉里吉里的早餐](/teuri-island/teuri-27.png)
 
 ▲ 吉里吉里的早餐非常厲害。
 
@@ -224,7 +226,7 @@ tags: [birdwatching]
 
 船有沒有開請參考這裡：[羽幌沿海フェリー](https://haboro-enkai.com/)
 
-![image](/teuri-island/teuri-28.png)
+![羽幌沿海フェリー船班時刻表](/teuri-island/teuri-28.png)
 
 ▲ 請參考這邊的時間安排行程。
 
@@ -232,7 +234,7 @@ tags: [birdwatching]
 
 旅程也請多安排一點緩衝的時間。
 
-![image](/teuri-island/teuri-29.png)
+![羽幌經燒尻島到天売島的航線圖](/teuri-island/teuri-29.png)
 
 ▲ 航程大概兩個小時，會先到燒尻島，再到天売島。
 
@@ -244,111 +246,111 @@ tags: [birdwatching]
 
 ## 鳥點
 
-![image](/teuri-island/teuri-30.png)
+![天売島七個賞鳥點地圖](/teuri-island/teuri-30.png)
 
 ▲ 天売島總共有 `7` 個賞鳥點。
 
-![image](/teuri-island/teuri-31.png)
+![厳島神社正面入口](/teuri-island/teuri-31.png)
 
 ▲ [厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)正面入口，後面繞過去有個鎮魂碑，在這裡靜靜的等一下，會有很多鳥。
 
-![image](/teuri-island/teuri-32.png)
+![海竜寺入口](/teuri-island/teuri-32.png)
 
 ▲ [海竜寺](https://maps.app.goo.gl/9nhHJ9pSu2cj2gns9)入口。
 
 沿著道路走，會接一個斜坡通到`天売葬斎場`，體質敏感的人自己注意一下。
 
-![image](/teuri-island/teuri-33.png)
+![荒廢的三吉神社](/teuri-island/teuri-33.png)
 
 ▲ 上圖是[三吉神社](https://maps.app.goo.gl/GLScWRZLAVhyvU7r6)。
 
 這裡已經荒廢了，路旁都是草，行走的時候要小心，如果是體質敏感的人注意不要走太裡面。
 
-![image](/teuri-island/teuri-34.png)
+![黒崎海岸滿地的黑尾鷗](/teuri-island/teuri-34.png)
 
 ▲ [黒崎海岸](https://maps.app.goo.gl/NeHcrmf8iSvTeeSx6)，滿地的黑尾鷗。
 
-![image](/teuri-island/teuri-35.png)
+![角嘴海雀巢區步道與赤岩埼灯台](/teuri-island/teuri-35.png)
 
 ▲ 角嘴海雀的巢區，順著步道走，不要隨意離開步道。
 
 有看到上面有個燈塔嗎？燈塔叫`赤岩埼灯台`，附近有個廁所。
 
-![image](/teuri-island/teuri-36.png)
+![燈塔附近的陡升段](/teuri-island/teuri-36.png)
 
 ▲ 這裡是陡升段，建議在燈塔這休息一下補充體力。
 
-![image](/teuri-island/teuri-37.png)
+![赤岩展望台往下看的景色](/teuri-island/teuri-37.png)
 
 ▲ [赤岩展望台](https://maps.app.goo.gl/YR2t2xV84nVwyvkp8)，從海雀巢區往下走。
 
 到了展望台往下看就是赤岩，風非常非常的大，非常非常的冷！
 
-![image](/teuri-island/teuri-38.png)
+![海鳥観察舎外觀](/teuri-island/teuri-38.png)
 
 ▲ [海鳥観察舎](https://maps.app.goo.gl/XASqdGmt8J14GNpT8)。
 
 這裡是可以遮風避雨休息的地方，但沒有廁所。
 
-![image](/teuri-island/teuri-39.png)
+![観音岬展望台可見雨燕](/teuri-island/teuri-39.png)
 
 ▲ [観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)，可以看到不少雨燕。
 
-![image](/teuri-island/teuri-40.png)
+![步道陡升和陡降注意標示](/teuri-island/teuri-40.png)
 
 ▲ 箭頭畫起來陡升和陡降的地方要注意。
 
-![image](/teuri-island/teuri-41.png)
+![天売郵便局可買明信片和蓋紀念章](/teuri-island/teuri-41.png)
 
 ▲ `天売郵便局`可以買明信片和蓋紀念章。
 
 ## 住宿
 
-![image](/teuri-island/teuri-42.png)
+![民宿栄丸外觀](/teuri-island/teuri-42.png)
 
 ▲ 我們住在[漁師の宿 民宿「栄丸」](http://sakaemaru.jp/)。
 
-![image](/teuri-island/teuri-43.png)
+![民宿栄丸第一天晚餐](/teuri-island/teuri-43.png)
 
 ▲ 民宿第一天提供的晚餐。
 
-![image](/teuri-island/teuri-44.png)
+![新鮮食材特寫](/teuri-island/teuri-44.png)
 
 ▲ 食材非常的新鮮。
 
-![image](/teuri-island/teuri-45.png)
+![民宿料理特寫](/teuri-island/teuri-45.png)
 
 ▲ 特寫。
 
-![image](/teuri-island/teuri-46.png)
+![海鮮丼飯](/teuri-island/teuri-46.png)
 
 ▲ 海鮮丼飯。
 
-![image](/teuri-island/teuri-47.png)
+![民宿栄丸第二天早餐](/teuri-island/teuri-47.png)
 
 ▲ 民宿第二天提供的早餐。
 
-![image](/teuri-island/teuri-48.png)
+![炭火海鮮番屋的午餐](/teuri-island/teuri-48.png)
 
 ▲ [炭火海鮮 番屋](https://maps.app.goo.gl/6Y1zY5UBW81DwSdc7)的午餐。
 
-![image](/teuri-island/teuri-49.png)
+![炭火海鮮番屋午餐再看一次](/teuri-island/teuri-49.png)
 
 ▲ 再看一次。
 
-![image](/teuri-island/teuri-50.png)
+![炭火海鮮番屋料理特寫](/teuri-island/teuri-50.png)
 
 ▲ 特寫。
 
-![image](/teuri-island/teuri-51.png)
+![民宿栄丸第二天晚餐](/teuri-island/teuri-51.png)
 
 ▲ 民宿第二天提供的晚餐。
 
-![image](/teuri-island/teuri-52.png)
+![現剖海膽](/teuri-island/teuri-52.png)
 
 ▲ 現剖海膽。
 
-![image](/teuri-island/teuri-53.png)
+![民宿栄丸第三天早餐](/teuri-island/teuri-53.png)
 
 ▲ 民宿第三天提供的早餐。
 
@@ -356,7 +358,7 @@ tags: [birdwatching]
 
 請參考這個網站 👉 [天売島観光サイト「天売島.jp」](https://www.teuri.jp/tour)
 
-![image](/teuri-island/teuri-54.png)
+![當地導覽預約時間表](/teuri-island/teuri-54.png)
 
 ▲ 預約時間表，就是這裡了。
 
@@ -371,15 +373,15 @@ tags: [birdwatching]
 📍 ウトウの帰巣請在這裡預約，不需要帶手電筒，不要晚上自己去！
 :::
 
-![image](/teuri-island/teuri-55.jpg)
+![ウトウ帰巣近距離觀察](/teuri-island/teuri-55.jpg)
 
 ▲ 可以看到這麼近，用手機就可以拍，
 
-![image](/teuri-island/teuri-56.png)
+![從舢舨船尾端往前看](/teuri-island/teuri-56.png)
 
 ▲ 從舢舨船尾端往前看大概長這樣。
 
-![image](/teuri-island/teuri-57.png)
+![從船上眺望天売島](/teuri-island/teuri-57.png)
 
 ▲ 從船上往天売島看。
 
@@ -389,25 +391,25 @@ tags: [birdwatching]
 
 ## 租腳踏車
 
-![image](/teuri-island/teuri-58.png)
+![おろろんレンタル電動腳踏車租借店](/teuri-island/teuri-58.png)
 
 ▲ 我們租電動腳踏車的地方，店名叫[おろろんレンタル](https://maps.app.goo.gl/jmSJpinPFG6M5ppz8)，老奶奶很健談。
 
-![image](/teuri-island/teuri-59.png)
+![おろろんレンタル離港口很近](/teuri-island/teuri-59.png)
 
 ▲ 離港口很近，一到島上，我們就直接來這裡租電動腳踏車。
 
 ## 當地商店
 
-![image](/teuri-island/teuri-60.png)
+![天売島當地商店](/teuri-island/teuri-60.png)
 
 ▲ 當地只有兩家商店。
 
-![image](/teuri-island/teuri-61.png)
+![マルサン三浦酒店雜貨店外觀](/teuri-island/teuri-61.png)
 
 ▲ [マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較像雜貨店，店面稍微舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷。
 
-![image](/teuri-island/teuri-62.png)
+![川口商店外觀](/teuri-island/teuri-62.png)
 
 ▲ [川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)，比較多生鮮蔬菜，賣的東西和`マルサン三浦酒店`稍微錯開。
 
@@ -456,12 +458,12 @@ Instagram
 
 - [投幣式置物櫃](https://www.new-chitose-airport.jp/tw/service/baggage/locker/)
 
-![image](/teuri-island/teuri-63.png)
+![新千歲機場投幣式置物櫃](/teuri-island/teuri-63.png)
 
 缺點是只能放三天。
 
 - [手提行李暫時寄放、宅配、行李服務](https://www.new-chitose-airport.jp/tw/service/baggage/baggage_checkroom/)
 
-![image](/teuri-island/teuri-64.png)
+![新千歲機場行李寄放服務](/teuri-island/teuri-64.png)
 
 要注意取件時間只到晚上八點，超過就沒辦法取件囉！

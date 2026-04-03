@@ -2,6 +2,8 @@
 slug: zelda-breath-wild-complete-guide
 title: 薩爾達曠野之息 100% 全收集
 description: 薩爾達傳說曠野之息 100% 完全收集攻略，包含全 15 座神獸塔、120 座神廟、226 個地點、900 個呀哈哈、全防具升級、全迷你頭目勳章、海拉魯圖鑑 385 項、大師模式通關、DLC 試煉之劍及英傑詩篇完整收集清單，適合追求極致完成度的玩家參考。
+image: /gaming/zelda/botw/15-main-quests.png
+keywords: [薩爾達, 曠野之息, Breath of the Wild, 100%, 全收集, 攻略, Nintendo Switch]
 tags: [gaming]
 ---
 
@@ -9,41 +11,41 @@ tags: [gaming]
 
 - [x] Activate all 15 Sheikah Towers.
     - [x] Akkala Tower
-    ![image](/gaming/zelda/botw/akkala-tower.png)
+    ![Akkala Tower](/gaming/zelda/botw/akkala-tower.png)
     - [x] Central Tower
-    ![image](/gaming/zelda/botw/central-tower.png)
+    ![Central Tower](/gaming/zelda/botw/central-tower.png)
     - [x] Dueling Peaks Tower
-    ![image](/gaming/zelda/botw/dueling-peaks-tower.png)
+    ![Dueling Peaks Tower](/gaming/zelda/botw/dueling-peaks-tower.png)
     - [x] Eldin Tower
-    ![image](/gaming/zelda/botw/eldin-tower.png)
+    ![Eldin Tower](/gaming/zelda/botw/eldin-tower.png)
     - [x] Faron Tower
-    ![image](/gaming/zelda/botw/faron-tower.png)
+    ![Faron Tower](/gaming/zelda/botw/faron-tower.png)
     - [x] Gerudo Tower
-    ![image](/gaming/zelda/botw/gerudo-tower.png)
+    ![Gerudo Tower](/gaming/zelda/botw/gerudo-tower.png)
     - [x] Great Plateu Tower
-    ![image](/gaming/zelda/botw/great-plateu-tower.png)
+    ![Great Plateu Tower](/gaming/zelda/botw/great-plateu-tower.png)
     - [x] Hateno Tower
-    ![image](/gaming/zelda/botw/hateno-tower.png)
+    ![Hateno Tower](/gaming/zelda/botw/hateno-tower.png)
     - [x] Hebra Tower
-    ![image](/gaming/zelda/botw/hebra-tower.png)
+    ![Hebra Tower](/gaming/zelda/botw/hebra-tower.png)
     - [x] Lake Tower
-    ![image](/gaming/zelda/botw/lake-tower.png)
+    ![Lake Tower](/gaming/zelda/botw/lake-tower.png)
     - [x] Lanaryu Tower
-    ![image](/gaming/zelda/botw/lanaryu-tower.png)
+    ![Lanaryu Tower](/gaming/zelda/botw/lanaryu-tower.png)
     - [x] Ridgeland Tower
-    ![image](/gaming/zelda/botw/ridgeland-tower.png)
+    ![Ridgeland Tower](/gaming/zelda/botw/ridgeland-tower.png)
     - [x] Tabantha Tower
-    ![image](/gaming/zelda/botw/tabantha-tower.png)
+    ![Tabantha Tower](/gaming/zelda/botw/tabantha-tower.png)
     - [x] Wasteland Tower
-    ![image](/gaming/zelda/botw/wasteland-tower.png)
+    ![Wasteland Tower](/gaming/zelda/botw/wasteland-tower.png)
     - [x] Woodland Tower
-    ![image](/gaming/zelda/botw/woodland-tower.png)
+    ![Woodland Tower](/gaming/zelda/botw/woodland-tower.png)
 - [x] Complete all 15 Main Quests (excluding "Destroy Ganon").
-![image](/gaming/zelda/botw/15-main-quests.png)
+![15 Main Quests](/gaming/zelda/botw/15-main-quests.png)
 - [x] Complete all 42 Shrine Quests.
-![image](/gaming/zelda/botw/42-shrine-quests.png)
+![42 Shrine Quests](/gaming/zelda/botw/42-shrine-quests.png)
 - [x] Complete all 76 Side Quests.
-![image](/gaming/zelda/botw/76-side-quests.png)
+![76 Side Quests](/gaming/zelda/botw/76-side-quests.png)
 - [x] Complete the "Destroy Ganon" Main Quest to unlock the percentage counter in the bottom left corner of the Sheikah Slate's map, and reach 100.00% on it.
 ![map](/gaming/zelda/botw/destroy-ganon.png)
     - [x] Complete all 4 Divine Beasts. (0.32%)
@@ -57,34 +59,34 @@ tags: [gaming]
     ![900 Korok Seeds](/gaming/zelda/botw/900-korok-seeds.png)
 - [x] Discover every possible Weapon, Shield, Bow, Material, and Food once, including baked and frozen variants of food.
 - [x] Find all 18 Recovered Memories.
-![image](/gaming/zelda/botw/18-recovered-memories.png)
+![18 Recovered Memories](/gaming/zelda/botw/18-recovered-memories.png)
 - [x] Fully expand all Weapon, Shield, and Bow Inventories and obtain Hestu's Gift.
 - [x] Listen to Kass's final song in Rito Village.
-![image](/gaming/zelda/botw/kass-final-song.png)
+![Kass Final Song](/gaming/zelda/botw/kass-final-song.png)
 - [x] Obtain all 120 Spirit Orbs.
-![image](/gaming/zelda/botw/120-spirit-orbs.png)
+![120 Spirit Orbs](/gaming/zelda/botw/120-spirit-orbs.png)
 - [x] Obtain all Horse Gear.
     - [x] Ancient Bridle.
-    ![image](/gaming/zelda/botw/ancient-bridle.png)
+    ![Ancient Bridle](/gaming/zelda/botw/ancient-bridle.png)
     - [x] Extravagant Bridle.
-    ![image](/gaming/zelda/botw/extravagant-bridle.png)
+    ![Extravagant Bridle](/gaming/zelda/botw/extravagant-bridle.png)
     - [x] Knight's Bridle.
-    ![image](/gaming/zelda/botw/knight-bridle.png)
+    ![Knight Bridle](/gaming/zelda/botw/knight-bridle.png)
     - [x] Monster Bridle.
-    ![image](/gaming/zelda/botw/monster-bridle.png)
+    ![Monster Bridle](/gaming/zelda/botw/monster-bridle.png)
     - [x] Royal Bridle.
-    ![image](/gaming/zelda/botw/royal-bridle.png)
+    ![Royal Bridle](/gaming/zelda/botw/royal-bridle.png)
     - [x] Stable Bridle.
-    ![image](/gaming/zelda/botw/stable-bridle.png)
+    ![Stable Bridle](/gaming/zelda/botw/stable-bridle.png)
     - [x] Traveler's Bridle.
-    ![image](/gaming/zelda/botw/traveler-bridle.png)
+    ![Traveler Bridle](/gaming/zelda/botw/traveler-bridle.png)
 - [x] Obtain all Mini-Boss Medals of Honor from Kilton.
     - [ ] Medal of Honor: Hinox.
-    ![image](/gaming/zelda/botw/medal-of-honor-hinox.png)
+    ![Medal of Honor Hinox](/gaming/zelda/botw/medal-of-honor-hinox.png)
     - [ ] Medal of Honor: Talus.
-    ![image](/gaming/zelda/botw/medal-of-honor-talus.png)
+    ![Medal of Honor Talus](/gaming/zelda/botw/medal-of-honor-talus.png)
     - [ ] Medal of Honor: Molduga.
-    ![image](/gaming/zelda/botw/medal-of-honor-molduga.png)
+    ![Medal of Honor Molduga](/gaming/zelda/botw/medal-of-honor-molduga.png)
 
 - [x] Obtain and fully upgrade all non-sellable Armor.
     - [x] Cap of the Wild.
@@ -97,21 +99,21 @@ tags: [gaming]
     - [x] Zora Helm.
 - [x] Obtain every shield reward from the Shield-Surfing Mini-Game.
     - [x] < 1:30 Royal Shield.
-    ![image](/gaming/zelda/botw/royal-shield.png)
+    ![Royal Shield](/gaming/zelda/botw/royal-shield.png)
     - [x] 1:45-2:00 Knight's Shield.
     - [x] 2:00-2:15 Soldier's Shield.
     - [x] 2:15-2:30	Kite Shield.
-    ![image](/gaming/zelda/botw/kite-shield.png)
+    ![Kite Shield](/gaming/zelda/botw/kite-shield.png)
     - [x] 2:30-2:45	Traveler's Shield.
-    ![image](/gaming/zelda/botw/traveler-shield.png)
+    ![Traveler Shield](/gaming/zelda/botw/traveler-shield.png)
     - [x] 2:45-3:00	Fisherman's Shield.
-    ![image](/gaming/zelda/botw/fisherman-shield.png)
+    ![Fisherman Shield](/gaming/zelda/botw/fisherman-shield.png)
     - [x] 3:00-3:15	Emblazoned Shield.
-    ![image](/gaming/zelda/botw/emblazoned-shield.png)
+    ![Emblazoned Shield](/gaming/zelda/botw/emblazoned-shield.png)
     - [x] 3:15-3:30	Hunter's Shield.
-    ![image](/gaming/zelda/botw/hunter-shield.png)
+    ![Hunter Shield](/gaming/zelda/botw/hunter-shield.png)
     - [x] > 3:30 Wooden Shield.
-    ![image](/gaming/zelda/botw/wooden-shield.png)
+    ![Wooden Shield](/gaming/zelda/botw/wooden-shield.png)
 - [x] Optional: Complete all of glitches.
     - [x] Bomb Sliding.
     - [x] Bow Spin.
@@ -141,128 +143,128 @@ tags: [gaming]
     - [x] Whistle Sprinting.
     - [x] Wind Bomb.
 - [x] Optional: Light every Blue Flame Pedestal with Blue Flame.
-![image](/gaming/zelda/botw/blue-flame-pedestal.png)
+![Blue Flame Pedestal](/gaming/zelda/botw/blue-flame-pedestal.png)
 - [x] Optional: Obtain all amiibo-exclusive gear.
 - [x] Optional: Obtain and fully upgrade one of every type of Armor.
     - [x] Amber Earrings
-    ![image](/gaming/zelda/botw/amber-earrings.png)
+    ![Amber Earrings](/gaming/zelda/botw/amber-earrings.png)
     - [x] Ancient Set.
-    ![image](/gaming/zelda/botw/ancient-set.png)
+    ![Ancient Set](/gaming/zelda/botw/ancient-set.png)
     - [x] Armor of the Wild.
-    ![image](/gaming/zelda/botw/armor-of-the-wild.png)
+    ![Armor of the Wild](/gaming/zelda/botw/armor-of-the-wild.png)
     - [x] Barbarian Set.
-    ![image](/gaming/zelda/botw/barbarian-set.png)
+    ![Barbarian Set](/gaming/zelda/botw/barbarian-set.png)
     - [x] Bokoblin Mask
-    ![image](/gaming/zelda/botw/bokoblin-mask.png)
+    ![Bokoblin Mask](/gaming/zelda/botw/bokoblin-mask.png)
     - [x] Champion's Tunic
-    ![image](/gaming/zelda/botw/champion-tunic.png)
+    ![Champion Tunic](/gaming/zelda/botw/champion-tunic.png)
     - [x] Climbing Set.
-    ![image](/gaming/zelda/botw/climbing-set.png)
+    ![Climbing Set](/gaming/zelda/botw/climbing-set.png)
     - [x] Dark Set.
-    ![image](/gaming/zelda/botw/dark-set.png)
+    ![Dark Set](/gaming/zelda/botw/dark-set.png)
     - [x] Desert Voe Set.
-    ![image](/gaming/zelda/botw/desert-voe-set.png)
+    ![Desert Voe Set](/gaming/zelda/botw/desert-voe-set.png)
     - [x] Diamond Circlet
-    ![image](/gaming/zelda/botw/diamond-circlet.png)
+    ![Diamond Circlet](/gaming/zelda/botw/diamond-circlet.png)
     - [x] Flamebreaker Set.
-    ![image](/gaming/zelda/botw/flamebreaker-set.png)
+    ![Flamebreaker Set](/gaming/zelda/botw/flamebreaker-set.png)
     - [x] Gerudo Set.
-    ![image](/gaming/zelda/botw/gerudo-set.png)
+    ![Gerudo Set](/gaming/zelda/botw/gerudo-set.png)
     - [x] Hylian Set.
-    ![image](/gaming/zelda/botw/hylian-set.png)
+    ![Hylian Set](/gaming/zelda/botw/hylian-set.png)
     - [x] Island Lobster Shirt
-    ![image](/gaming/zelda/botw/island-lobster-shirt.png)
+    ![Island Lobster Shirt](/gaming/zelda/botw/island-lobster-shirt.png)
     - [x] Korok Mask
-    ![image](/gaming/zelda/botw/korok-mask.png)
+    ![Korok Mask](/gaming/zelda/botw/korok-mask.png)
     - [x] Lizalfos Mask
-    ![image](/gaming/zelda/botw/lizalfos-mask.png)
+    ![Lizalfos Mask](/gaming/zelda/botw/lizalfos-mask.png)
     - [x] Lynel Mask
-    ![image](/gaming/zelda/botw/lynel-mask.png)
+    ![Lynel Mask](/gaming/zelda/botw/lynel-mask.png)
     - [x] Majora's Mask
-    ![image](/gaming/zelda/botw/majora-mask.png)
+    ![Majora Mask](/gaming/zelda/botw/majora-mask.png)
     - [x] Midna's Helmet
-    ![image](/gaming/zelda/botw/midna-helmet.png)
+    ![Midna Helmet](/gaming/zelda/botw/midna-helmet.png)
     - [x] Moblin Mask
-    ![image](/gaming/zelda/botw/moblin-mask.png)
+    ![Moblin Mask](/gaming/zelda/botw/moblin-mask.png)
     - [x] Opal Earrings
-    ![image](/gaming/zelda/botw/opal-earrings.png)
+    ![Opal Earrings](/gaming/zelda/botw/opal-earrings.png)
     - [x] Phantom Set.
-    ![image](/gaming/zelda/botw/phantom-set.png)
+    ![Phantom Set](/gaming/zelda/botw/phantom-set.png)
     - [x] Radiant Set.
-    ![image](/gaming/zelda/botw/radiant-set.png)
+    ![Radiant Set](/gaming/zelda/botw/radiant-set.png)
     - [x] Ravio's Hood
-    ![image](/gaming/zelda/botw/ravio-hood.png)
+    ![Ravio Hood](/gaming/zelda/botw/ravio-hood.png)
     - [x] Royal Guard Set.
-    ![image](/gaming/zelda/botw/royal-guard-set.png)
+    ![Royal Guard Set](/gaming/zelda/botw/royal-guard-set.png)
     - [x] Rubber Set.
-    ![image](/gaming/zelda/botw/rubber-set.png)
+    ![Rubber Set](/gaming/zelda/botw/rubber-set.png)
     - [x] Ruby Circlet
-    ![image](/gaming/zelda/botw/ruby-circlet.png)
+    ![Ruby Circlet](/gaming/zelda/botw/ruby-circlet.png)
     - [x] Salvager's Set
-    ![image](/gaming/zelda/botw/salvager-set.png)
+    ![Salvager Set](/gaming/zelda/botw/salvager-set.png)
     - [x] Sand Boots
-    ![image](/gaming/zelda/botw/sand-boots.png)
+    ![Sand Boots](/gaming/zelda/botw/sand-boots.png)
     - [x] Sapphire Circlet
-    ![image](/gaming/zelda/botw/sapphire-circlet.png)
+    ![Sapphire Circlet](/gaming/zelda/botw/sapphire-circlet.png)
     - [x] Sheikah Set.
-    ![image](/gaming/zelda/botw/sheikah-set.png)
+    ![Sheikah Set](/gaming/zelda/botw/sheikah-set.png)
     - [x] Snow Boots
-    ![image](/gaming/zelda/botw/snow-boots.png)
+    ![Snow Boots](/gaming/zelda/botw/snow-boots.png)
     - [x] Snowquill Set.
-    ![image](/gaming/zelda/botw/snowquill-set.png)
+    ![Snowquill Set](/gaming/zelda/botw/snowquill-set.png)
     - [x] Soldier's Set.
-    ![image](/gaming/zelda/botw/soldier-set.png)
+    ![Soldier Set](/gaming/zelda/botw/soldier-set.png)
     - [x] Thunder Helm
-    ![image](/gaming/zelda/botw/thunder-helm.png)
+    ![Thunder Helm](/gaming/zelda/botw/thunder-helm.png)
     - [x] Tingle's Outfit.
-    ![image](/gaming/zelda/botw/tingle-outfit.png)
+    ![Tingle Outfit](/gaming/zelda/botw/tingle-outfit.png)
     - [x] Topaz Earrings
-    ![image](/gaming/zelda/botw/topaz-earrings.png)
+    ![Topaz Earrings](/gaming/zelda/botw/topaz-earrings.png)
     - [x] Warm Doublet
-    ![image](/gaming/zelda/botw/warm-doublet.png)
+    ![Warm Doublet](/gaming/zelda/botw/warm-doublet.png)
     - [x] Worn Set.
-    ![image](/gaming/zelda/botw/worn-set.png)
+    ![Worn Set](/gaming/zelda/botw/worn-set.png)
     - [x] Zant's Helmet
-    ![image](/gaming/zelda/botw/zant-helmet.png)
+    ![Zant Helmet](/gaming/zelda/botw/zant-helmet.png)
     - [x] Zora Set.
-    ![image](/gaming/zelda/botw/zora-set.png)
+    ![Zora Set](/gaming/zelda/botw/zora-set.png)
 - [x] Register all 385 entries in the Hyrule Compendium, clear the "New" indicator on every image, and obtain the Classified Envelope.
     - [x] Creatures.
-    ![image](/gaming/zelda/botw/creatures-1.png)
-    ![image](/gaming/zelda/botw/creatures-2.png)
-    ![image](/gaming/zelda/botw/creatures-3.png)
-    ![image](/gaming/zelda/botw/creatures-4.png)
+    ![Creatures 1](/gaming/zelda/botw/creatures-1.png)
+    ![Creatures 2](/gaming/zelda/botw/creatures-2.png)
+    ![Creatures 3](/gaming/zelda/botw/creatures-3.png)
+    ![Creatures 4](/gaming/zelda/botw/creatures-4.png)
     - [x] Equipment.
-    ![image](/gaming/zelda/botw/equipment-1.png)
-    ![image](/gaming/zelda/botw/equipment-2.png)
-    ![image](/gaming/zelda/botw/equipment-3.png)
-    ![image](/gaming/zelda/botw/equipment-4.png)
-    ![image](/gaming/zelda/botw/equipment-5.png)
-    ![image](/gaming/zelda/botw/equipment-6.png)
-    ![image](/gaming/zelda/botw/equipment-7.png)
-    ![image](/gaming/zelda/botw/equipment-8.png)
+    ![Equipment 1](/gaming/zelda/botw/equipment-1.png)
+    ![Equipment 2](/gaming/zelda/botw/equipment-2.png)
+    ![Equipment 3](/gaming/zelda/botw/equipment-3.png)
+    ![Equipment 4](/gaming/zelda/botw/equipment-4.png)
+    ![Equipment 5](/gaming/zelda/botw/equipment-5.png)
+    ![Equipment 6](/gaming/zelda/botw/equipment-6.png)
+    ![Equipment 7](/gaming/zelda/botw/equipment-7.png)
+    ![Equipment 8](/gaming/zelda/botw/equipment-8.png)
     - [x] Materials.
-    ![image](/gaming/zelda/botw/materials-1.png)
-    ![image](/gaming/zelda/botw/materials-2.png)
+    ![Materials 1](/gaming/zelda/botw/materials-1.png)
+    ![Materials 2](/gaming/zelda/botw/materials-2.png)
     - [x] Monsters.
-    ![image](/gaming/zelda/botw/monsters-1.png)
-    ![image](/gaming/zelda/botw/monsters-2.png)
-    ![image](/gaming/zelda/botw/monsters-3.png)
-    ![image](/gaming/zelda/botw/monsters-4.png)
+    ![Monsters 1](/gaming/zelda/botw/monsters-1.png)
+    ![Monsters 2](/gaming/zelda/botw/monsters-2.png)
+    ![Monsters 3](/gaming/zelda/botw/monsters-3.png)
+    ![Monsters 4](/gaming/zelda/botw/monsters-4.png)
     - [x] Treasure.
-    ![image](/gaming/zelda/botw/treasure.png)
+    ![Treasure](/gaming/zelda/botw/treasure.png)
 
 - [x] Reveal all skills in the Ability Controls Menu.
-![image](/gaming/zelda/botw/all-skills.png)
+![All Skills](/gaming/zelda/botw/all-skills.png)
 - [x] Search every dead Guardian and abandoned Wagon.
 - [x] Speak to every Character at least once to register their name.
 
 ## Expansion Pass
 
-![image](/gaming/zelda/botw/expansion-pass.png)
+![Expansion Pass](/gaming/zelda/botw/expansion-pass.png)
 
 - [x] Obtain the Nintendo Switch Shirt.
-![image](/gaming/zelda/botw/nintendo-switch-shirt.png)
+![Nintendo Switch Shirt](/gaming/zelda/botw/nintendo-switch-shirt.png)
 - [x] Open all three additional Treasure Chests.
     - [x] Ja Baij Shrine - Nintendo Switch Shirt.
     - [x] Keh Namut Shrine - Five Bomb Arrows.
@@ -271,10 +273,10 @@ tags: [gaming]
 ## The Master Trials
 
 - [x] 100% complete both Normal and Master Mode.
-![image](/gaming/zelda/botw/master-mode.png)
+![Master Mode](/gaming/zelda/botw/master-mode.png)
 - [x] Complete the seven additional Side Quests.
     - [x] EX Trial of the Sword
-    ![image](/gaming/zelda/botw/trial-of-the-sword.png)
+    ![Trial of the Sword](/gaming/zelda/botw/trial-of-the-sword.png)
     - [x] EX Strange Mask Rumors
     - [x] EX Teleportation Rumors!
     - [x] EX Treasure: Ancient Mask
@@ -285,12 +287,12 @@ tags: [gaming]
 ## Xenoblade Chronicles 2
 
 - [x] Complete the additional Side Quest.
-![image](/gaming/zelda/botw/xenoblade-chronicles-2.png)
+![Xenoblade Chronicles 2](/gaming/zelda/botw/xenoblade-chronicles-2.png)
 
 ## The Champions' Ballad
 
 - [x] Complete all five additional Main Quests.
-![image](/gaming/zelda/botw/the-champion-ballad.png)
+![The Champion Ballad](/gaming/zelda/botw/the-champion-ballad.png)
     - [x] EX The Champions' Ballad
     - [x] EX Champion Mipha's Song
     - [x] EX Champion Daruk's Song
@@ -304,4 +306,4 @@ tags: [gaming]
     - [x] EX EX Treasure: Usurper King
     - [x] EX EX Treasure: Dark Armor
 - [x] Place the Picture of the Champions in Link's House.
-![image](/gaming/zelda/botw/picture-of-the-champions.png)
+![Picture of the Champions](/gaming/zelda/botw/picture-of-the-champions.png)

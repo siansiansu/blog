@@ -2,6 +2,7 @@
 slug: mac-setup-guide
 title: Mac Setup Guide for DevOps/SRE
 description: DevOps 與 SRE 工程師的 macOS 開發環境設定指南，包含 Homebrew、Terminal、AWS CLI、Kubernetes 工具與 Ansible 安裝教學。
+keywords: [Mac, macOS, DevOps, SRE, Homebrew, 開發環境, setup guide]
 tags: [dev]
 ---
 
@@ -61,7 +62,7 @@ Make sure you are already connected to the company's WiFi
 
 ## 4. Setup Magnet/Rectangle/Spectacle
 
-![image](/mac-setup-guide/setup-guide.png)
+![Mac Setup Guide 流程圖](/mac-setup-guide/setup-guide.png)
 
 ## 5. Download & Install from Browser
 

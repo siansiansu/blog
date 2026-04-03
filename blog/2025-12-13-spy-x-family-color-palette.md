@@ -1,7 +1,8 @@
 ---
 slug: spy-x-family-color-palette
 title: Spy X Family Color Palette
-description: Spy X Family Color Palette
+description: Spy X Family 動畫角色配色方案，包含 Anya、Loid、Yor 等角色的代表色彩色碼。
+keywords: [Spy X Family, 配色, color palette, 動畫, 設計]
 tags: [design]
 ---
 

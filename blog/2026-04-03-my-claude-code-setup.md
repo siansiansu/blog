@@ -2,6 +2,7 @@
 slug: my-claude-code-setup
 title: 我的 Claude Code 設定
 description: 分享我日常使用的 Claude Code 設定，包含 CLAUDE.md、settings.json、plugins、rules、custom agents 與 skills 的配置方式。
+keywords: [Claude Code, AI, CLAUDE.md, settings, plugins, skills, 開發工具]
 tags: [dev]
 ---
 
@@ -49,13 +50,185 @@ claude update
 
 ## CLAUDE.md
 
-放在 `~/.claude/CLAUDE.md`，所有專案共用。重點：
+放在 `~/.claude/CLAUDE.md`，所有專案共用：
 
-- 小步前進，每次改動都要能編譯、通過測試
-- 先讀懂既有程式碼再動手
-- 務實優先，不搞花式寫法
-- 同一個問題嘗試三次失敗就停下來重新評估
-- 查線上文件確認 API 和版本，不要依賴預訓練知識
+```markdown
+# Development Guidelines
+
+## Philosophy
+
+### Core Beliefs
+
+- **Incremental progress over big bangs** - Small changes that compile and pass tests
+- **Learning from existing code** - Study and plan before implementing
+- **Pragmatic over dogmatic** - Adapt to project reality
+- **Clear intent over clever code** - Be boring and obvious
+- **Never make assumptions** - Always read the documentation first, search the codebase, and only then ask questions if necessary
+
+### Simplicity Means
+
+- Single responsibility per function/class
+- Avoid premature abstractions
+- No clever tricks - choose the boring solution
+- If you need to explain it, it's too complex
+
+## Context Management
+
+- Before starting multi-file edits or complex implementations, assess remaining context capacity
+- **Warning signals** that context is constrained:
+  - The conversation has accumulated many tool results (10+ file reads, multiple agent outputs)
+  - The system has auto-compressed earlier messages
+  - You can no longer recall details discussed earlier in the conversation
+- **When context is constrained**:
+  - Do NOT start large tasks — summarize progress first, then proceed in a fresh scope
+  - Delegate file-heavy research to subagents to protect main context
+  - Break remaining work into smaller, independently committable steps
+- Prefer multiple small passes over one large pass — each pass should be completable within available context
+
+## Process
+
+### 1. Planning & Staging
+
+Break complex work into 3-5 stages. Document in `IMPLEMENTATION_PLAN.md`:
+
+## Stage N: [Name]
+**Goal**: [Specific deliverable]
+**Success Criteria**: [Testable outcomes]
+**Tests**: [Specific test cases]
+**Status**: [Not Started|In Progress|Complete]
+
+- Update status as you progress
+- Remove file when all stages are done
+
+### 2. Research Directive
+- When studying unfamiliar code or planning changes, read all related files thoroughly — understand data flow, edge cases, and dependencies before proposing solutions
+- Do not skim; trace the full call chain from entry point to final output
+- When asked to research, produce a written summary documenting findings
+
+### 3. Implementation Flow
+
+1. **Understand** - Study existing patterns in codebase
+2. **Test** - Write test first (red)
+3. **Implement** - Minimal code to pass (green)
+4. **Refactor** - Clean up with tests passing
+5. **Commit** - With clear message linking to plan
+
+### 4. When Stuck (After 3 Attempts)
+
+**CRITICAL**: Maximum 3 attempts per issue, then STOP.
+
+1. **Document what failed**:
+   - What you tried
+   - Specific error messages
+   - Why you think it failed
+
+2. **Research alternatives**:
+   - Find 2-3 similar implementations
+   - Note different approaches used
+
+3. **Question fundamentals**:
+   - Is this the right abstraction level?
+   - Can this be split into smaller problems?
+   - Is there a simpler approach entirely?
+
+4. **Try different angle**:
+   - Different library/framework feature?
+   - Different architectural pattern?
+   - Remove abstraction instead of adding?
+
+## Technical Standards
+
+### Architecture Principles
+
+- **Composition over inheritance** - Use dependency injection
+- **Interfaces over singletons** - Enable testing and flexibility
+- **Explicit over implicit** - Clear data flow and dependencies
+- **Test-driven when possible** - Never disable tests, fix them
+
+### Code Quality
+
+- **Every commit must**:
+  - Compile successfully
+  - Pass all existing tests
+  - Include tests for new functionality
+  - Follow project formatting/linting
+
+- **Before committing**:
+  - Run formatters/linters
+  - Self-review changes
+  - Ensure commit message explains "why"
+
+### Error Handling
+
+- Fail fast with descriptive messages
+- Include context for debugging
+- Handle errors at appropriate level
+- Never silently swallow exceptions
+
+## Decision Framework
+
+When multiple valid approaches exist, choose based on:
+
+1. **Testability** - Can I easily test this?
+2. **Readability** - Will someone understand this in 6 months?
+3. **Consistency** - Does this match project patterns?
+4. **Simplicity** - Is this the simplest solution that works?
+5. **Reversibility** - How hard to change later?
+
+## Project Integration
+
+### Learning the Codebase
+
+- Find 3 similar features/components
+- Identify common patterns and conventions
+- Use same libraries/utilities when possible
+- Follow existing test patterns
+
+### Tooling
+
+- Use project's existing build system
+- Use project's test framework
+- Use project's formatter/linter settings
+- Don't introduce new tools without strong justification
+
+## Quality Gates
+
+### Definition of Done
+
+- [ ] Tests written and passing
+- [ ] Code follows project conventions
+- [ ] No linter/formatter warnings
+- [ ] Commit messages are clear
+- [ ] Implementation matches plan
+- [ ] No TODOs without issue numbers
+
+### Test Guidelines
+
+- Test behavior, not implementation
+- One assertion per test when possible
+- Clear test names describing scenario
+- Use existing test utilities/helpers
+- Tests should be deterministic
+
+## Online Sources
+
+- When referencing libraries, APIs, CLI tools, configs, or dependency versions, prefer checking online documentation (use find-docs skill or WebSearch) over relying on pre-trained knowledge
+- Pre-trained knowledge may be outdated — verify current APIs and versions before suggesting
+
+## Important Reminders
+
+**NEVER**:
+- Use `--no-verify` to bypass commit hooks
+- Disable tests instead of fixing them
+- Commit code that doesn't compile
+- Make assumptions - verify with existing code
+
+**ALWAYS**:
+- Commit working code incrementally
+- Update plan documentation as you go
+- Learn from existing implementations
+- Stop after 3 failed attempts and reassess
+```
 
 ## Per-File Rules
 

@@ -44,7 +44,23 @@ const config = {
           trackingID: "G-FYJ71DG1PS",
         },
         sitemap: {
+          lastmod: 'date',
           ignorePatterns: ['/search/**'],
+          createSitemapItems: async ({defaultCreateSitemapItems, ...params}) => {
+            const items = await defaultCreateSitemapItems(params);
+            return items.map((item) => {
+              if (item.url === 'https://blog.siansiansu.com/') {
+                return {...item, changefreq: 'daily', priority: 1.0};
+              }
+              if (item.url.includes('/tags/')) {
+                return {...item, changefreq: 'weekly', priority: 0.3};
+              }
+              if (item.url.includes('/page/') || item.url.includes('/archive')) {
+                return {...item, changefreq: 'weekly', priority: 0.2};
+              }
+              return {...item, changefreq: 'monthly', priority: 0.8};
+            });
+          },
         },
       }),
     ],

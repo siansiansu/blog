@@ -2,12 +2,14 @@
 slug: birdwatching-tomakomai
 title: 我的賞鳥筆記 - 苫小牧
 description: 苫小牧賞鳥完整攻略，包含 ウトナイ湖和北海道大學苫小牧研究林兩大賞鳥點，詳細交通指南、公車時刻表、道の駅設施介紹、Dormy Inn 住宿推薦、Toncini 義大利餐廳美食、苫小牧科學博物館等實用資訊，適合計畫前往北海道賞鳥的鳥友參考。
+image: /tomakomai/cover-photo.png
+keywords: [賞鳥, 苫小牧, 北海道, ウトナイ湖, birdwatching, 鳥類, 日本]
 tags: [birdwatching]
 ---
 
 苫小牧賞鳥筆記，分享交通、住宿、廁所、飲水等旅行中需要知道的實用資訊。
 
-![image](/tomakomai/cover-photo.png)
+![苫小牧市主要賞鳥點地圖](/tomakomai/cover-photo.png)
 
 ▲ 苫小牧市主要的 2 個賞鳥點：
 
@@ -20,11 +22,11 @@ tags: [birdwatching]
 
 ### 1. 新千歲機場到苫小牧車站
 
-![image](/tomakomai/chitose-tomakomai.png)
+![新千歲機場到苫小牧車站的 JR 路線圖](/tomakomai/chitose-tomakomai.png)
 
 ▲ 從`新千歲機場`搭乘 JR `千歲線`接`室蘭本線`到`苫小牧車站`下車，車程大概 `1` 個小時左右。
 
-![image](/tomakomai/tomakomai-station.png)
+![苫小牧車站附近地圖，標示苫小牧観光案内所位置](/tomakomai/tomakomai-station.png)
 
 ▲ 車站附近，上圖圈起來有一個叫做`苫小牧観光案内所`，是一個類似遊客中心的地方，裡面也有賣東西，如果路途上遇到什麼問題，可以來這裡詢問。
 
@@ -32,7 +34,7 @@ tags: [birdwatching]
 
 店員很親切，因為我們不會講日文，所以主要用翻譯軟體溝通。
 
-![image](/tomakomai/tomakomai-map.png)
+![苫小牧車站和観光案内所提供的觀光摺頁](/tomakomai/tomakomai-map.png)
 
 ▲ `苫小牧車站`和`苫小牧観光案内所`的櫃檯都有許多摺頁可以拿。
 
@@ -40,37 +42,37 @@ tags: [birdwatching]
 
 到 `ウトナイ湖`要搭公車。
 
-![image](/tomakomai/utonai-1.png)
+![前往ウトナイ湖的公車站外觀](/tomakomai/utonai-1.png)
 
 ▲ 公車站外觀。
 
-![image](/tomakomai/utonai-2.jpeg)
+![前往ウトナイ湖的公車時刻表，標記去程和回程時間](/tomakomai/utonai-2.jpeg)
 
 ▲ 上圖是我們跟站務人員拿的公車的時刻表，左邊打勾是我們預計要去的時間，右邊是預計回程的時間。
 
 一個小時一班。
 
-![image](/tomakomai/utonai-3.png)
+![前往ウトナイ湖的公車路線圖，車程約 40 分鐘](/tomakomai/utonai-3.png)
 
 ▲ 車程大約 `40` 分鐘左右，記得預先準備好零錢，免得手忙腳亂。
 
-![image](/tomakomai/utonai-4.png)
+![ウトナイ湖地圖，標示休息站、廁所位置和步行路線](/tomakomai/utonai-4.png)
 
 ▲ 圈起來的紅色圈圈是可以休息上廁所的地方，箭頭是我們從公車站下車後走的路線。
 
-![image](/tomakomai/utonai-5.jpeg)
+![ウトナイ湖的公車站牌](/tomakomai/utonai-5.jpeg)
 
 ▲ `ウトナイ湖`的公車站牌。
 
-![image](/tomakomai/kanade-1.png)
+![KANADE 咖啡店位置地圖，位於ウトナイ湖旁的小木屋](/tomakomai/kanade-1.png)
 
 ▲ 到了之後，我們先到左邊一個叫 [KANADE](https://www.instagram.com/cafe_kanade/) 的咖啡店休息和上廁所，是一棟小木屋。
 
-![image](/tomakomai/kanade-2.jpeg)
+![KANADE 咖啡店的菜單](/tomakomai/kanade-2.jpeg)
 
 ▲ 附上菜單，甜點非常好吃！
 
-![image](/tomakomai/michi-no-eki-1.png)
+![道の駅ウトナイ湖外觀，右邊可見道の駅ウトナイ湖プレジール](/tomakomai/michi-no-eki-1.png)
 
 ▲ 過了馬路，就是非常有名的`道之駅 ウトナイ湖`，裡面有賣各式各樣的鳥周邊和食物。
 
@@ -82,7 +84,7 @@ tags: [birdwatching]
 📍 道の駅ウトナイ湖的營業時間是 9 AM - 5 PM。
 :::
 
-![image](/tomakomai/michi-no-eki-2.png)
+![道の駅ウトナイ湖展望台內部，窗戶貼有防窗殺貼紙](/tomakomai/michi-no-eki-2.png)
 
 ▲ `道の駅ウトナイ湖 展望台`內部，窗戶都有貼防窗殺貼紙。
 
@@ -90,17 +92,17 @@ tags: [birdwatching]
 📍 道の駅ウトナイ湖展望台開放的時間是 9 AM - 5 PM。
 :::
 
-![image](/tomakomai/conservation-center-1.png)
+![ウトナイ湖野生鳥獣保護センター內部，展示小朋友製作的正面鳥勞作](/tomakomai/conservation-center-1.png)
 
 ▲ `ウトナイ湖野生鳥獣保護センター`內部，裡面有很多小朋友做的正面鳥勞作。
 
-![image](/tomakomai/conservation-center-2.png)
+![ウトナイ湖野生鳥獣保護センター展示](/tomakomai/conservation-center-2.png)
 
 :::info
 📍 ウトナイ湖野生鳥獣保護センター每個禮拜一休館，營業時間是 9 AM - 5 PM。
 :::
 
-![image](/tomakomai/utonai-6.png)
+![ウトナイ湖湖畔賞鳥步道](/tomakomai/utonai-6.png)
 
 ▲ 沿著湖畔的步道走就可以了，是個非常輕鬆賞鳥行程，沒有什麼要注意的地方。
 
@@ -110,13 +112,13 @@ tags: [birdwatching]
 
 #### 另一個路線
 
-![image](/tomakomai/utonai-7.png)
+![ウトナイ湖另一個入口位置](/tomakomai/utonai-7.png)
 
 ▲ `ウトナイ湖`另一個入口，網路上有些文章提到是從這裡進去，但離道の駅比較遠。
 
 ### 北海道大学苫小牧研究林
 
-![image](/tomakomai/forest.png)
+![前往北海道大学苫小牧研究林的公車路線圖](/tomakomai/forest.png)
 
 ▲ 從苫小牧車站出發，在公車乘車處找`01永福三条線`這班公車。
 
@@ -126,17 +128,17 @@ tags: [birdwatching]
 
 ### 苫小牧科學博物館
 
-![image](/tomakomai/science-center-1.png)
+![苫小牧科學博物館外觀](/tomakomai/science-center-1.png)
 
 ▲ 苫小牧科學博物館。
 
 除了剛才提到的兩個鳥點外，我們還另外去了`苫小牧科學博物館`，非常推薦來這裡逛逛。
 
-![image](/tomakomai/science-center-2.jpeg)
+![苫小牧科學博物館內展示的各式交通機械](/tomakomai/science-center-2.jpeg)
 
 ▲ 裡面展示了各式各樣的交通機械。
 
-![image](/tomakomai/science-center-3.jpeg)
+![苫小牧科學博物館內展示的退役太空站](/tomakomai/science-center-3.jpeg)
 
 ▲ 退役的太空站。
 
@@ -146,31 +148,31 @@ tags: [birdwatching]
 
 ## 吃吃喝喝
 
-![image](/tomakomai/tomakomai-1.png)
+![Toncini 義大利餐廳位置地圖](/tomakomai/tomakomai-1.png)
 
 ▲ [Toncini - Ristorante italiano](https://www.instagram.com/toncini_ristorante_italiano/)
 
 想不到在苫小牧也有非常道地的義大利餐廳！
 
-![image](/tomakomai/toncini-1.jpeg)
+![Toncini 義大利餐廳外觀，隱藏在民宅內](/tomakomai/toncini-1.jpeg)
 
 ▲ 隱藏在普通的民宅內。
 
-![image](/tomakomai/toncini-2.jpeg)
+![Toncini 的千層麵](/tomakomai/toncini-2.jpeg)
 
 ▲ 千層麵，餐點非常厲害。
 
-![image](/tomakomai/toncini-3.png)
+![Toncini 的義大利麵](/tomakomai/toncini-3.png)
 
 ▲ 義大利麵。
 
-![image](/tomakomai/toncini-4.jpeg)
+![Toncini 的菜單封面](/tomakomai/toncini-4.jpeg)
 
 ▲ 菜單的封面
 
 ## 住宿
 
-![image](/tomakomai/tomakomai-2.png)
+![Dormy Inn 天然温泉樽前の湯ドーミーイン苫小牧位置地圖](/tomakomai/tomakomai-2.png)
 
 ▲ [Dormy Inn 天然温泉樽前の湯ドーミーイン苫小牧](https://maps.app.goo.gl/zyquFViLbNtkY4CC8)。
 
@@ -216,12 +218,12 @@ Instagram
 
 1. [投幣式置物櫃](https://www.new-chitose-airport.jp/tw/service/baggage/locker/)
 
-![image](/tomakomai/tomakomai-3.png)
+![新千歲機場投幣式置物櫃](/tomakomai/tomakomai-3.png)
 
 缺點是只能放三天。
 
 2. [手提行李暫時寄放、宅配、行李服務](https://www.new-chitose-airport.jp/tw/service/baggage/baggage_checkroom/)
 
-![image](/tomakomai/tomakomai-4.png)
+![新千歲機場手提行李寄放服務](/tomakomai/tomakomai-4.png)
 
 我們是使用這個服務，要注意取件時間只到**晚上八點**，超過就沒辦法取件囉！

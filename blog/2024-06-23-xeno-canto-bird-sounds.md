@@ -1,6 +1,8 @@
 ---
 slug: xeno-canto-bird-sounds
 title: Xeno-canto 搜尋助手 - 快速查詢鳥音的 Chrome 套件
+description: Xeno-canto 搜尋助手 Chrome 擴充套件，支援鳥名快速搜尋 Xeno-canto 鳥音資料庫，方便辨識與學習鳥類叫聲。
+keywords: [Xeno-canto, 鳥音, Chrome 套件, 賞鳥, birdwatching, 鳥類辨識]
 tags: [birdwatching]
 ---
 

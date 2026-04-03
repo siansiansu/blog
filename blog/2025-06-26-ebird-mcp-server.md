@@ -2,6 +2,8 @@
 slug: ebird-mcp-server
 title: 結合 eBird 與 AI：用 MCP Server 打造你的個人鳥類資料助理
 description: 透過 Model Context Protocol (MCP) Server 整合 eBird API 與 Claude AI，用自然語言查詢鳥類觀測資料、賞鳥熱點與物種分類。支援 Python 開發環境設定教學。
+image: /ebird-mcp-server/demo2.gif
+keywords: [eBird, MCP, Claude AI, Model Context Protocol, 賞鳥, API, Python]
 tags: [ebird]
 ---
 
@@ -144,7 +146,7 @@ pip install -r requirements.txt
 
 2. 將滑鼠移到導覽列，點選 **Settings**
 
-![image](/ebird-mcp-server/settings.png)
+![Claude 桌面應用程式 Settings 頁面](/ebird-mcp-server/settings.png)
 
 3. 找到 **Developer** 區塊，點擊 **Edit Config**，修改 `claude_desktop_config.json` 檔案。
 4.  將以下 JSON 內容貼入，並替換成您自己的設定：
@@ -165,7 +167,7 @@ pip install -r requirements.txt
 }
 ```
 
-![image](/ebird-mcp-server/config.png)
+![claude_desktop_config.json 設定檔範例](/ebird-mcp-server/config.png)
 
 **請務必修改以下路徑與金鑰**：
 - `command`: `python` 執行檔絕對路徑。
@@ -176,12 +178,12 @@ pip install -r requirements.txt
 
 設定完成後重新啟動 Claude 桌面版，Claude 會自動啟動並管理這個 MCP Server。
 
-![](/ebird-mcp-server/claude.png)
+![Claude 桌面版啟動 MCP Server 畫面](/ebird-mcp-server/claude.png)
 
 進入先前的設定頁面可以看到關於 eBird MCP Server 的設定。
 
-![](/ebird-mcp-server/server.png)
+![eBird MCP Server 設定頁面](/ebird-mcp-server/server.png)
 
 之後回到聊天頁面就可以使用囉！
 
-![](/ebird-mcp-server/demo3.gif)
+![eBird MCP Server 使用示範](/ebird-mcp-server/demo3.gif)

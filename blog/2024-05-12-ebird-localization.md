@@ -2,6 +2,7 @@
 slug: ebird-localization
 title: eBird 繁體中文地圖 - 解決顯示簡體中文地圖的 Chrome 套件
 description: Chrome 擴充套件讓 eBird 地圖顯示繁體中文地名，即裝即用，改善台灣鳥友的賞鳥記錄與觀測體驗。
+keywords: [eBird, Chrome 套件, 繁體中文, 地圖, 賞鳥, 鳥類觀測]
 tags: [ebird]
 ---
 
