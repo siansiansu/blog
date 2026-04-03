@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Iansui';
-  src: url('/fonts/Iansui-Regular.ttf') format('truetype');
+  font-family: 'jf-openhuninn';
+  src: url('/fonts/jf-openhuninn-2.1.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -33,7 +33,7 @@
   --ifm-color-gray-600: #636366;
   --ifm-color-gray-700: #1d1d1f;
   --ifm-color-gray-800: #000000;
-  --ifm-font-family-base: "Iansui", -apple-system, BlinkMacSystemFont, "SF Pro Text",
+  --ifm-font-family-base: "jf-openhuninn", -apple-system, BlinkMacSystemFont, "SF Pro Text",
                           "Noto Sans TC", "Microsoft JhengHei", "Helvetica Neue",
                           Helvetica, Arial, sans-serif;
   --ifm-font-size-base: 16px;

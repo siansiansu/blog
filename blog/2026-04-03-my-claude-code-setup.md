@@ -205,7 +205,6 @@ model: sonnet
 ```bash
 npx skills add https://github.com/hardikpandya/stop-slop -g
 npx skills add https://github.com/upstash/context7 --skill find-docs -g
-npx skills add https://github.com/vinta/hal-9000 --skill second-opinions magi-ex -g
 npx skills add https://github.com/softaworks/agent-toolkit --skill naming-analyzer -g
 npx skills add https://github.com/trailofbits/skills --skill modern-python -g
 
