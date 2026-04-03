@@ -36,7 +36,6 @@ claude update
 │   ├── swift.md
 │   └── kotlin.md
 ├── agents/         → ~/.claude/agents/
-│   └── ios-developer.md
 └── skills/         → ~/.claude/skills/
     ├── find-docs/
     ├── stop-slop/
@@ -352,24 +351,6 @@ claude plugin marketplace update
 | claude-plugins-official | anthropics/claude-plugins-official | 預設，官方 plugins |
 | anthropic-agent-skills | anthropics/skills | 官方 skills，有開 auto-update |
 | trailofbits | trailofbits/skills | 資安相關 skills |
-
-## Custom Agents
-
-放在 `~/.claude/agents/`。目前有一個 iOS 開發用的 agent：
-
-```markdown
----
-name: ios-developer
-description: Native iOS development specialist with Swift and SwiftUI.
-tools: Read, Write, Edit, Bash
-model: sonnet
----
-
-專注 SwiftUI、UIKit、Core Data、async/await，使用 MVVM 架構。
-遵循 Apple Human Interface Guidelines。
-```
-
-`model: sonnet` 用較快的模型跑 iOS 工作，不需要每次都動用 Opus。
 
 ## Skills
 
