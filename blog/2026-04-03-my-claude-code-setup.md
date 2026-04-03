@@ -400,4 +400,4 @@ This allows `cp` and `git add` without confirmation prompts.
 ## References
 
 - [skills.sh](https://skills.sh/) - Skill directory
-- [Claude Code Documentation](https://code.claude.com/docs)
+- [Claude Code Documentation](https://code.claude.com/docs/en/overview)
