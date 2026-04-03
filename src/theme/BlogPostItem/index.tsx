@@ -13,7 +13,7 @@ export default function BlogPostItemWrapper(props) {
     headline: title,
     description: description,
     datePublished: date,
-    url: `https://blog.siansiansu.com${permalink}`,
+    url: `https://binhian.pages.dev${permalink}`,
     author: authors?.map((author) => ({
       '@type': 'Person',
       name: author.name,
@@ -22,18 +22,18 @@ export default function BlogPostItemWrapper(props) {
     publisher: {
       '@type': 'Organization',
       name: 'Bîn-hiân ê 簿仔紙',
-      url: 'https://blog.siansiansu.com',
+      url: 'https://binhian.pages.dev',
       logo: {
         '@type': 'ImageObject',
-        url: 'https://blog.siansiansu.com/img/logo.png',
+        url: 'https://binhian.pages.dev/img/logo.png',
       },
     },
     ...(frontMatter.image && {
-      image: `https://blog.siansiansu.com${frontMatter.image}`,
+      image: `https://binhian.pages.dev${frontMatter.image}`,
     }),
     mainEntityOfPage: {
       '@type': 'WebPage',
-      '@id': `https://blog.siansiansu.com${permalink}`,
+      '@id': `https://binhian.pages.dev${permalink}`,
     },
   };
 

@@ -7,7 +7,7 @@ const config = {
   favicon: "img/favicon.ico",
   trailingSlash: true,
 
-  url: "https://blog.siansiansu.com",
+  url: "https://binhian.pages.dev",
   baseUrl: "/",
   organizationName: "siansiansu",
   projectName: "blog",
@@ -49,7 +49,7 @@ const config = {
           createSitemapItems: async ({defaultCreateSitemapItems, ...params}) => {
             const items = await defaultCreateSitemapItems(params);
             return items.map((item) => {
-              if (item.url === 'https://blog.siansiansu.com/') {
+              if (item.url === 'https://binhian.pages.dev/') {
                 return {...item, changefreq: 'daily', priority: 1.0};
               }
               if (item.url.includes('/tags/')) {
@@ -89,8 +89,8 @@ const config = {
         '@context': 'https://schema.org',
         '@type': 'Organization',
         name: 'Bîn-hiân ê 簿仔紙',
-        url: 'https://blog.siansiansu.com',
-        logo: 'https://blog.siansiansu.com/img/logo.png',
+        url: 'https://binhian.pages.dev',
+        logo: 'https://binhian.pages.dev/img/logo.png',
       }),
     },
   ],
@@ -124,7 +124,7 @@ const config = {
         },
         {
           name: "og:url",
-          content: "https://blog.siansiansu.com"
+          content: "https://binhian.pages.dev"
         },
         {
           name: "description",
@@ -136,11 +136,11 @@ const config = {
         },
         {
           name: "og:image",
-          content: "https://blog.siansiansu.com/img/profile.jpg"
+          content: "https://binhian.pages.dev/img/profile.jpg"
         },
         {
           name: "twitter:image",
-          content: "https://blog.siansiansu.com/img/profile.jpg"
+          content: "https://binhian.pages.dev/img/profile.jpg"
         },
         {
           name: "og:type",

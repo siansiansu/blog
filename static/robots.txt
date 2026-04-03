@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog.siansiansu.com/sitemap.xml
+Sitemap: https://binhian.pages.dev/sitemap.xml
