@@ -1,31 +1,31 @@
 ---
 slug: my-claude-code-setup
-title: 我的 Claude Code 設定
-description: 分享我日常使用的 Claude Code 設定，包含 CLAUDE.md、settings.json、plugins、rules、custom agents 與 skills 的配置方式。
-keywords: [Claude Code, AI, CLAUDE.md, settings, plugins, skills, 開發工具]
+title: My Claude Code Setup
+description: Sharing my daily Claude Code configuration, including CLAUDE.md, settings.json, plugins, rules, custom agents, and skills.
+keywords: [Claude Code, AI, CLAUDE.md, settings, plugins, skills, developer tools]
 tags: [dev]
 ---
 
-紀錄一下目前的 Claude Code 設定。
+A quick note on my current Claude Code setup.
 
 <!-- truncate -->
 
-## 安裝 Claude Code
+## Installing Claude Code
 
 ```bash
 # macOS / Linux
 curl -fsSL https://claude.ai/install.sh | sh
 
-# 確認安裝
+# Verify installation
 claude --version
 
-# 更新
+# Update
 claude update
 ```
 
-## 設定檔管理
+## Configuration Management
 
-所有 Claude Code 設定集中放在一個 git repo 裡，再用 symlink 連到 `~/.claude/`：
+All Claude Code config files live in a single git repo, symlinked to `~/.claude/`:
 
 ```
 ~/Workspace/configurations/claude/
@@ -45,11 +45,11 @@ claude update
     └── second-opinions/
 ```
 
-換電腦的時候 clone 下來跑一次 symlink 就好。
+When switching machines, just clone and run the symlink script.
 
 ## CLAUDE.md
 
-放在 `~/.claude/CLAUDE.md`，所有專案共用：
+Located at `~/.claude/CLAUDE.md`, shared across all projects:
 
 ```markdown
 # Development Guidelines
@@ -231,7 +231,7 @@ When multiple valid approaches exist, choose based on:
 
 ## Per-File Rules
 
-放在 `~/.claude/rules/`，用 `paths` 指定對應的檔案類型才會載入。
+Located in `~/.claude/rules/`. Each rule file uses `paths` to specify which file types it applies to.
 
 ### python.md
 
@@ -240,11 +240,11 @@ When multiple valid approaches exist, choose based on:
 paths: ["**/*.py"]
 ---
 
-- Target Python >= 3.13；使用 union types `X | Y`、pattern matching
-- 系統 Python 腳本維持 3.9 相容性
-- 用 `uv` 管理專案，`ruff` 做 linting/formatting，`pytest` 跑測試
-- pyproject.toml 中鎖定精確版本（不用 `>=`、`~=`、`^`）
-- 用 `TypedDict` 取代 plain dict 做結構化設定
+- Target Python >= 3.13; use union types `X | Y`, pattern matching
+- System Python scripts maintain 3.9 compatibility
+- Use `uv` for project management, `ruff` for linting/formatting, `pytest` for testing
+- Pin exact versions in pyproject.toml (no `>=`, `~=`, `^`)
+- Use `TypedDict` instead of plain dict for structured config
 ```
 
 ### swift.md
@@ -254,11 +254,11 @@ paths: ["**/*.py"]
 paths: ["**/*.swift"]
 ---
 
-- 遵循 SwiftUI / UIKit 官方最佳實踐
-- 優先使用 async/await，不用 completion handler
-- 優先選擇 value types（struct, enum）
-- delegate 使用 `weak` 避免 retain cycle
-- SwiftUI View 和 Controller 分離
+- Follow SwiftUI / UIKit official best practices
+- Prefer async/await over completion handlers
+- Prefer value types (struct, enum)
+- Use `weak` for delegates to avoid retain cycles
+- Separate SwiftUI Views from Controllers
 - Guard early, reduce nesting
 ```
 
@@ -269,16 +269,16 @@ paths: ["**/*.swift"]
 paths: ["**/*.kt"]
 ---
 
-- 善用 Kotlin idioms：let、apply、also、run、with
-- 優先 `val` 和 immutable collections
-- 用 sealed classes 做 restricted hierarchies
-- 用 coroutines 做非同步，避免 callbacks
-- IME 元件遵循 Android Keyboard Design Guidelines
+- Leverage Kotlin idioms: let, apply, also, run, with
+- Prefer `val` and immutable collections
+- Use sealed classes for restricted hierarchies
+- Use coroutines for async work, avoid callbacks
+- IME components follow Android Keyboard Design Guidelines
 ```
 
 ## Settings
 
-`~/.claude/settings.json` 的配置：
+`~/.claude/settings.json` configuration:
 
 ```json
 {
@@ -305,11 +305,11 @@ paths: ["**/*.kt"]
 }
 ```
 
-`deny` 封鎖危險指令，`ask` 讓網路操作需要手動確認。
+`deny` blocks dangerous commands, `ask` requires manual confirmation for network operations.
 
 ## Plugins
 
-安裝指令：
+Installation:
 
 ```bash
 claude plugin install swift-lsp@claude-plugins-official
@@ -319,42 +319,42 @@ claude plugin install commit-commands@claude-plugins-official
 claude plugin install claude-md-management@claude-plugins-official
 claude plugin install claude-code-setup@claude-plugins-official
 
-# 查看已安裝的 plugins
+# List installed plugins
 claude plugin list
 ```
 
-| Plugin | 用途 |
-|--------|------|
-| swift-lsp | Swift 語言伺服器支援 |
-| kotlin-lsp | Kotlin 語言伺服器支援 |
-| code-simplifier | 程式碼簡化與重構建議 |
-| commit-commands | Git commit 相關指令（commit, push, PR） |
-| claude-md-management | CLAUDE.md 檔案管理與更新 |
-| claude-code-setup | Claude Code 設定分析與建議 |
+| Plugin | Purpose |
+|--------|---------|
+| swift-lsp | Swift language server support |
+| kotlin-lsp | Kotlin language server support |
+| code-simplifier | Code simplification and refactoring suggestions |
+| commit-commands | Git commit commands (commit, push, PR) |
+| claude-md-management | CLAUDE.md file management and updates |
+| claude-code-setup | Claude Code setup analysis and recommendations |
 
 ## Marketplaces
 
 ```bash
-# 加入第三方 marketplace
+# Add third-party marketplaces
 claude plugin marketplace add anthropics/skills
 claude plugin marketplace add trailofbits/skills
 
-# 查看所有 marketplace
+# List all marketplaces
 claude plugin marketplace list
 
-# 更新 marketplace
+# Update marketplaces
 claude plugin marketplace update
 ```
 
-| Marketplace | 來源 | 說明 |
-|------------|------|------|
-| claude-plugins-official | anthropics/claude-plugins-official | 預設，官方 plugins |
-| anthropic-agent-skills | anthropics/skills | 官方 skills，有開 auto-update |
-| trailofbits | trailofbits/skills | 資安相關 skills |
+| Marketplace | Source | Description |
+|------------|--------|-------------|
+| claude-plugins-official | anthropics/claude-plugins-official | Default, official plugins |
+| anthropic-agent-skills | anthropics/skills | Official skills, auto-update enabled |
+| trailofbits | trailofbits/skills | Security-focused skills |
 
 ## Skills
 
-安裝指令：
+Installation:
 
 ```bash
 npx skills add https://github.com/hardikpandya/stop-slop -g
@@ -362,27 +362,27 @@ npx skills add https://github.com/upstash/context7 --skill find-docs -g
 npx skills add https://github.com/softaworks/agent-toolkit --skill naming-analyzer -g
 npx skills add https://github.com/trailofbits/skills --skill modern-python -g
 
-# 查看已安裝的 skills
+# List installed skills
 npx skills list -g
 
-# 更新所有 skills
+# Update all skills
 npx skills update -g
 ```
 
-| Skill | 用途 |
-|-------|------|
-| stop-slop | 移除文字中的 AI 寫作痕跡 |
-| find-docs | 查詢技術文件和 API reference |
-| second-opinions | 取得 Codex/Gemini 的獨立觀點 |
-| naming-analyzer | 變數和函式命名建議 |
-| magi-ex | 多模型腦力激盪（Opus/Codex/Gemini） |
-| modern-python | Python 專案現代化工具鏈設定 |
+| Skill | Purpose |
+|-------|---------|
+| stop-slop | Remove AI writing patterns from prose |
+| find-docs | Look up technical docs and API references |
+| second-opinions | Get independent reviews from Codex/Gemini |
+| naming-analyzer | Variable and function naming suggestions |
+| magi-ex | Multi-model brainstorming (Opus/Codex/Gemini) |
+| modern-python | Modern Python toolchain setup |
 
-`second-opinions` 和 `magi-ex` 會送給 Codex/Gemini 做獨立審查，不同模型的訓練偏差能互補盲點。
+`second-opinions` and `magi-ex` send work to Codex/Gemini for independent review. Different model training biases help catch blind spots.
 
 ## Project-Level Settings
 
-個別專案可以在 `.claude/settings.local.json` 覆寫全域設定。例如這個 blog 專案：
+Individual projects can override global settings in `.claude/settings.local.json`. For example, this blog project:
 
 ```json
 {
@@ -395,9 +395,9 @@ npx skills update -g
 }
 ```
 
-讓 `cp` 和 `git add` 不用每次都按確認。
+This allows `cp` and `git add` without confirmation prompts.
 
-## 參考資料
+## References
 
-- [skills.sh](https://skills.sh/) - Skill 目錄
+- [skills.sh](https://skills.sh/) - Skill directory
 - [Claude Code Documentation](https://code.claude.com/docs)
