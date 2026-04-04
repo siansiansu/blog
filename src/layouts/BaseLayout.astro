@@ -31,6 +31,13 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="keywords" content="台語, 賞鳥, eBird, 軟體工程, 程式設計, 生活, blog, 台灣" />
+    <script is:inline>
+      (function() {
+        const theme = localStorage.getItem('theme') ||
+          (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+      })();
+    </script>
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-FYJ71DG1PS"></script>
     <script is:inline>

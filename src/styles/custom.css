@@ -49,3 +49,23 @@ code, pre {
 pre {
   font-size: 0.875rem;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th {
+  background: var(--color-surface);
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+td {
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--color-border);
+}
