@@ -1,4 +1,4 @@
-.PHONY: install start build serve clean deploy clear
+.PHONY: install start build preview clean clear
 
 install:
 	npm install
@@ -9,14 +9,11 @@ start:
 build:
 	npm run build
 
-serve:
-	npm run serve
+preview:
+	npm run preview
 
 clean:
-	rm -rf build
-
-deploy:
-	npm run deploy
+	rm -rf dist
 
 clear:
-	rm -rf build .docusaurus node_modules
+	rm -rf dist .astro node_modules

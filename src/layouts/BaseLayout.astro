@@ -1,0 +1,67 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/custom.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+}
+
+const { title, description = "賞鳥、野外、台語、軟體、生活", image } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} | Bîn-hiân ê 簿仔紙</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
+    <link rel="icon" href="/img/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
+    <link rel="preload" href="/fonts/jf-openhuninn-2.1.ttf" as="font" type="font/ttf" crossorigin="anonymous" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    {image && <meta property="og:image" content={new URL(image, Astro.site)} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="keywords" content="台語, 賞鳥, eBird, 軟體工程, 程式設計, 生活, blog, 台灣" />
+    <script is:inline>
+      (function() {
+        const theme = localStorage.getItem('theme') ||
+          (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+      })();
+    </script>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FYJ71DG1PS"></script>
+    <script is:inline>
+      window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-FYJ71DG1PS');
+    </script>
+    <!-- Algolia DocSearch -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+    <script is:inline src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script>
+    <script is:inline>
+      if (typeof docsearch !== 'undefined') {
+        docsearch({
+          appId: 'C4B56S1AAZ',
+          apiKey: '7c415098f749b99a1a398fd66a62a0a0',
+          indexName: 'Documentation Website',
+          container: '#docsearch',
+        });
+      }
+    </script>
+  </body>
+</html>
