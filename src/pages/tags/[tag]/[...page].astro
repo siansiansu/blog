@@ -1,0 +1,57 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import Pagination from '../../../components/Pagination.astro';
+
+export async function getStaticPaths({ paginate }: any) {
+  const posts = await getCollection('blog');
+  const tags = [...new Set(posts.flatMap((p) => p.data.tags || []))];
+  return tags.flatMap((tag) => {
+    const filtered = posts
+      .filter((p) => p.data.tags?.includes(tag))
+      .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    return paginate(filtered, { params: { tag }, pageSize: 9 });
+  });
+}
+
+const { tag } = Astro.params;
+const { page } = Astro.props;
+---
+
+<BaseLayout title={`${tag} 標籤`}>
+  <div class="container">
+    <h1>標籤: {tag}</h1>
+    <div class="posts">
+      {page.data.map((post: any) => (
+        <PostCard
+          title={post.data.title}
+          slug={post.data.slug}
+          pubDate={post.data.pubDate}
+          description={post.data.description}
+          tags={post.data.tags}
+        />
+      ))}
+    </div>
+    <Pagination
+      prevUrl={page.url.prev}
+      nextUrl={page.url.next}
+      currentPage={page.currentPage}
+      lastPage={page.lastPage}
+    />
+  </div>
+</BaseLayout>
+
+<style>
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+  }
+</style>

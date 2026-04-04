@@ -1,0 +1,68 @@
+---
+const navLinks = [
+  { href: 'https://portaly.cc/siansiansu', label: '作品集' },
+  { href: 'https://p.ecpay.com.tw/3BF4A5A', label: '贊助支持' },
+];
+---
+
+<header class="header">
+  <div class="header-inner">
+    <a href="/" class="site-title">Bîn-hiân ê 簿仔紙</a>
+    <nav class="nav-links">
+      {navLinks.map((link) => (
+        <a href={link.href} target="_blank" rel="noopener noreferrer">{link.label}</a>
+      ))}
+      <div id="docsearch"></div>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  :global([data-theme='dark']) .header {
+    background-color: rgba(28, 28, 30, 0.92);
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .header-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .site-title {
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .nav-links {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .nav-links a {
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    font-size: 0.875rem;
+    transition: color 0.2s ease;
+  }
+
+  .nav-links a:hover {
+    color: var(--color-text);
+  }
+</style>

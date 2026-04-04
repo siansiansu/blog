@@ -3,11 +3,11 @@
 references
 
 # Production
-/build
+/dist
 
 # Generated files
-.docusaurus
-.cache-loader
+.astro
+.cache
 
 # Misc
 .DS_Store
@@ -30,4 +30,3 @@ yarn-error.log*
 
 # Claude
 .claude/
-.cache
