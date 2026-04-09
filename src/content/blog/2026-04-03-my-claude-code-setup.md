@@ -302,7 +302,30 @@ paths: ["**/*.kt"]
       "Bash(chmod *)"
     ]
   },
-  "effortLevel": "high",
+  "enabledPlugins": {
+    "swift-lsp@claude-plugins-official": true,
+    "code-simplifier@claude-plugins-official": true,
+    "commit-commands@claude-plugins-official": true,
+    "claude-md-management@claude-plugins-official": true,
+    "claude-code-setup@claude-plugins-official": true,
+    "kotlin-lsp@claude-plugins-official": true,
+    "writing-humanizer@shyuan-marketplace": true
+  },
+  "extraKnownMarketplaces": {
+    "trailofbits": {
+      "source": {
+        "source": "github",
+        "repo": "trailofbits/skills"
+      }
+    },
+    "shyuan-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "shyuan/shyuan-marketplace"
+      }
+    }
+  },
+  "effortLevel": "medium",
   "skipDangerousModePermissionPrompt": true
 }
 ```
@@ -320,19 +343,21 @@ claude plugin install code-simplifier@claude-plugins-official
 claude plugin install commit-commands@claude-plugins-official
 claude plugin install claude-md-management@claude-plugins-official
 claude plugin install claude-code-setup@claude-plugins-official
+claude plugin install writing-humanizer@shyuan-marketplace
 
 # List installed plugins
 claude plugin list
 ```
 
-| Plugin | Purpose |
-|--------|---------|
-| swift-lsp | Swift language server support |
-| kotlin-lsp | Kotlin language server support |
-| code-simplifier | Code simplification and refactoring suggestions |
-| commit-commands | Git commit commands (commit, push, PR) |
-| claude-md-management | CLAUDE.md file management and updates |
-| claude-code-setup | Claude Code setup analysis and recommendations |
+| Plugin | Source | Purpose |
+|--------|--------|---------|
+| swift-lsp | claude-plugins-official | Swift language server support |
+| kotlin-lsp | claude-plugins-official | Kotlin language server support |
+| code-simplifier | claude-plugins-official | Code simplification and refactoring suggestions |
+| commit-commands | claude-plugins-official | Git commit commands (commit, push, PR) |
+| claude-md-management | claude-plugins-official | CLAUDE.md file management and updates |
+| claude-code-setup | claude-plugins-official | Claude Code setup analysis and recommendations |
+| writing-humanizer | shyuan-marketplace | Remove AI-generated patterns and make writing more natural |
 
 ## Marketplaces
 
@@ -353,6 +378,7 @@ claude plugin marketplace update
 | claude-plugins-official | anthropics/claude-plugins-official | Default, official plugins |
 | anthropic-agent-skills | anthropics/skills | Official skills, auto-update enabled |
 | trailofbits | trailofbits/skills | Security-focused skills |
+| shyuan-marketplace | shyuan/shyuan-marketplace | Community skills (writing-humanizer) |
 
 ## Skills
 
@@ -380,6 +406,7 @@ npx skills update -g
 | naming-analyzer | Variable and function naming suggestions |
 | magi-ex | Multi-model brainstorming (Opus/Codex/Gemini) |
 | modern-python | Modern Python toolchain setup |
+| sync-configs | Check if dotfiles are in sync between repo and active locations |
 
 `second-opinions` and `magi-ex` send work to Codex/Gemini for independent review. Different model training biases help catch blind spots.
 
