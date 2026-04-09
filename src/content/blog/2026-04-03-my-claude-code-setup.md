@@ -39,6 +39,7 @@ All Claude Code config files live in a single git repo, symlinked to `~/.claude/
 ├── agents/         → ~/.claude/agents/
 └── skills/         → ~/.claude/skills/
     ├── find-docs/
+    ├── grill-me/
     ├── stop-slop/
     ├── magi-ex/
     ├── modern-python/
@@ -374,6 +375,7 @@ npx skills update -g
 |-------|---------|
 | stop-slop | Remove AI writing patterns from prose |
 | find-docs | Look up technical docs and API references |
+| grill-me | Stress-test plans and designs through relentless questioning |
 | second-opinions | Get independent reviews from Codex/Gemini |
 | naming-analyzer | Variable and function naming suggestions |
 | magi-ex | Multi-model brainstorming (Opus/Codex/Gemini) |
